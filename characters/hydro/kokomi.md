@@ -75,8 +75,8 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 | Attribute | Skill (Talent 6%) |
 | :--- | :--- |
 | Ripple DMG | 152.87% |
-| Frames | 66 (51 with Dash Cancel) |
 | Particles | 0~1 (1:2) |
+| Frames | 66 (51 with Dash Cancel) |
 | GU | 1A |
 | ICD (hits/timer) | None |
 | Snapshot | Snapshot\* |
