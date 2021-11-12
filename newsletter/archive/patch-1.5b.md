@@ -17,9 +17,9 @@ description: 'Eula Banner ft. Beidou, Xingqiu, and Xinyan'
 | [New Housing Page!](../../mechanics/gameplay-mechanics/housing.md) | ~ |
 | [Abyss Lector Shield Gauges](../../evidence/mechanics/enemies/enemy-shields.md#abyss-lector-shield-gauges) | 4 Theorycrafters |
 | [Abyss Herald Cooldown Mechanics](../../evidence/mechanics/enemies/enemy-interactions.md#abyss-herald-cooldown-mechanics) | Monado\#9922 |
-| [4pc ToM Procs Against Shielded Enemies](../../evidence/mechanics/equipment/artifacts.md#4pc-tom-procs-against-shielded-enemies) | Silvershine2\#5439 |
+| [4pc ToM Procs Against Shielded Enemies](../../evidence/equipment/artifacts.md#4pc-tom-procs-against-shielded-enemies) | Silvershine2\#5439 |
 | [Wood Daily Drop Limit](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#wood-daily-drop-limit) | Creonalia\#2818 |
-| [Millennial Movement Stack Mechanics](../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics) | rakka\#0099 |
+| [Millennial Movement Stack Mechanics](../../evidence/equipment/weapons.md#millenial-movement-stack-mechanics) | rakka\#0099 |
 | [New Eula Page!](../../characters/cryo/eula.md) | ~ |
 
 
@@ -61,7 +61,7 @@ description: 'Eula Banner ft. Beidou, Xingqiu, and Xinyan'
 |  | [Hu Tao E Pops Mona Q Bubble](../../evidence/characters/pyro/hu-tao.md#mona-q-bubble-pops-with-hu-tao-e) | Tryhardosaurus\#0007 |
 |  | [Childe Melee Form Procs Prototype Crescent](../../evidence/characters/hydro/tartaglia.md#childe-can-proc-prototype-crescents-passive-in-melee-form) | SaosKreator\#2700 |
 |  | [Fischl A4 Targets the Nearest Enemy](../../evidence/characters/electro/fischl.md#fischls-a4-targetting) | Aluminum\#5462 |
-|  | [Archaic Petra \(4\) Geovishap Interaction](../../evidence/mechanics/equipment/artifacts.md#geovishap-hatchling-shields-with-4-petra) | Raf\#7220 |
+|  | [Archaic Petra \(4\) Geovishap Interaction](../../evidence/equipment/artifacts.md#geovishap-hatchling-shields-with-4-petra) | Raf\#7220 |
 |  | [Diluc Burst ICD](../../evidence/characters/pyro/diluc.md#diluc-burst-icd) | Isu\#6867 |
 |  | [Hu Tao Blood Blossom Mechanics](../../evidence/characters/pyro/hu-tao.md#blood-blossom-bb-duration-on-charge-attack-reapplication) | itskhoi\#0013 |
 |  | [Diona C6 EM Interaction](../../evidence/characters/cryo/diona.md#diona-field-characteristics) | Monochrom9\#8058 |
@@ -70,14 +70,14 @@ description: 'Eula Banner ft. Beidou, Xingqiu, and Xinyan'
 |  | [Push/Pull Effects](../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md#push-pull-effects) | Saltyfart\#8946 |
 |  | [Venti AA after Skill Faster Swap](../../evidence/characters/anemo/venti.md#venti-autoattack-after-elemental-skill-faster-switching) | sexyeboy69\#6969 |
 |  | [Sucrose Burst w/Freeze + Petrify](../../evidence/characters/anemo/sucrose.md#sucrose-freeze-and-petrify-burst-interaction) | hz\#4084 |
-| May 22 | [4pc VV Triggering Mechanics](../../evidence/mechanics/equipment/artifacts.md#4pc-vv-triggering-mechanics) | sigurd\#3854 |
+| May 22 | [4pc VV Triggering Mechanics](../../evidence/equipment/artifacts.md#4pc-vv-triggering-mechanics) | sigurd\#3854 |
 |  | [Crystallize Refresh](../../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md#crystallize-refresh) | Terrapin\#8603 |
-|  | [4pc ToM Procs Against Shielded Enemies](../../evidence/mechanics/equipment/artifacts.md#4pc-tom-procs-against-shielded-enemies) | Silvershine2\#5439 |
+|  | [4pc ToM Procs Against Shielded Enemies](../../evidence/equipment/artifacts.md#4pc-tom-procs-against-shielded-enemies) | Silvershine2\#5439 |
 | May 21 | [Jean Running BPM](../../fluff/miscellaneous-entries.md#jean-running-bpm) | Ayzel\#7399 |
 |  | [Chair Cancelling](../../fluff/miscellaneous-entries.md#chair-cancelling) | Ayzel\#7399 |
 |  | [No Raining in Mondstadt](../../fluff/miscellaneous-entries.md#no-raining-in-mondstadt) | Ayzel\#7399 |
 |  | [Wood Daily Drop Limit](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#wood-daily-drop-limit) | Creonalia\#2818 |
-|  | [Millenial Movement Stack Mechanics](../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics) | rakka\#0099 |
+|  | [Millenial Movement Stack Mechanics](../../evidence/equipment/weapons.md#millenial-movement-stack-mechanics) | rakka\#0099 |
 |  | [Crafting Refund vs Increase Passives](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#crafting-refund-vs-increase-passives) | jdeeyu\#9927 |
 |  | [Kaeya E Energy Trials](../../evidence/characters/cryo/kaeya.md#kaeya-e-energy-trials) | Ayzel\#7399 |
 | May 18 | [Basic Eula Mechanics Investigation](../../evidence/characters/cryo/eula.md#basic-eula-mechanics) | KQM and Eula Mains Theorycrafters |

@@ -49,7 +49,7 @@
   * The "on hit" portion of the passive does not refer to normal attack hits alone.
 * Stacks cannot be gained while off-field.
 * New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../../evidence/mechanics/equipment/weapons.md#weapon-stacks-on-hit)  
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 {% endtab %}
 
 {% tab title="Details" %}
@@ -138,7 +138,7 @@
 | Base ATK | 46 - 608 |
 | ATK% | 10.8% - 49.6% |
 
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../../evidence/mechanics/equipment/weapons.md#weapon-stacks-on-hit)  
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 {% endtab %}
 
 {% tab title="Details" %}
@@ -171,8 +171,8 @@
 | Base ATK | 42 - 510 |
 | CRIT DMG% | 12% - 55.1% |
 
-* Passive persists even when holder is off-field - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
-* Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../../evidence/mechanics/equipment/weapons.md#blackcliff-series)
+* Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
+* Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -261,9 +261,9 @@
 | Base ATK | 41 - 454 |
 | EM | 48 - 221 |
 
-* Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
-* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
+* Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
+* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -323,7 +323,7 @@
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
 
-* Passive does not proc on shielded enemies - [Sakuno\#7950](../../../evidence/mechanics/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
+* Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -444,11 +444,11 @@
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
 
-* Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../../evidence/mechanics/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
-* The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#how-royal-longswords-passive-works)
-* Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../../evidence/mechanics/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
-* AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../../evidence/mechanics/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
-* Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../../evidence/mechanics/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
+* Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../evidence/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
+* The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../evidence/equipment/weapons.md#how-royal-longswords-passive-works)
+* Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
+* AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
+* Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
 {% endtab %}
 
 {% tab title="Details" %}

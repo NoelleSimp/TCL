@@ -28,7 +28,7 @@ description: 'Zhongli Banner ft. Yanfei, Diona, and Noelle'
 | [Polearm Charge Attacks Don't Register On Stunned Ruin Guards](../evidence/mechanics/enemies/enemy-interactions.md#polearm-charge-attacks-dont-register-on-stunned-ruin-guards) | itskhoi\#0013 | 5/10 |
 | [Wake of Earth Blocks Geovishap Jump](../evidence/characters/geo/traveler-geo.md#wake-of-earth-blocks-geovishap-jump) | Terrapin\#8603 | 5/7 |
 | [C6 Yanfei Stamina Consumed Reduction](../evidence/characters/pyro/yanfei.md#c6-yanfei-stamina-consumed-reduction) | bbwalrus\#8456 | 5/7 |
-| [Sacrificial Passive With Multiple E Stacks](../evidence/mechanics/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) | mol\#3280 | 5/7 |
+| [Sacrificial Passive With Multiple E Stacks](../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) | mol\#3280 | 5/7 |
 | [Auto Attack Energy Mechanics](../evidence/mechanics/gameplay-mechanics/attributes/energy.md#auto-attack-energy-mechanics) | xf3\#3123 and Zeitraffer\#1074 | 5/7 |
 | [Xingqiu Rain Sword ICD](../evidence/characters/hydro/xingqiu.md#xingqiu-rain-sword-icd) | Ayzel\#7399 | 5/7 |
 | [Baron Bunny's Aura](../evidence/characters/pyro/amber.md#baron-bunnys-aura) | Aluminum\#5462 | 5/6 |

@@ -185,9 +185,9 @@ This means that mismatched refinements with overlapping effects can affect the c
 * Averaged the results from 10 trials and came up with the average effective crit rate. 
 * The same was done for refinement rank 1, 3 and 5. 
 
-![](../../../.gitbook/assets/data.png)
+![](../../.gitbook/assets/data.png)
 
-![](../../../.gitbook/assets/result.png)
+![](../../.gitbook/assets/result.png)
 
 **Significance**
 

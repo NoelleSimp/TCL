@@ -30,37 +30,37 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#amenoma-kageuchi">Amenoma Kageuchi Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#amenoma-kageuchi">Amenoma Kageuchi Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#hakushin-ring">Hakushin Ring Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#hakushin-ring">Hakushin Ring Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#kitain-cross-spear">Kitain Cross Spear Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#kitain-cross-spear">Kitain Cross Spear Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#mistsplitter-reforged">Mistsplitter Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#mistsplitter-reforged">Mistsplitter Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/artifacts.md#emblem-of-severed-fate">Emblem of Severed Fate Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/artifacts.md#emblem-of-severed-fate">Emblem of Severed Fate Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/artifacts.md#shimenawas-reminiscence">Shimenawa&apos;s Reminiscence Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/artifacts.md#shimenawas-reminiscence">Shimenawa&apos;s Reminiscence Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
@@ -72,13 +72,13 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/artifacts.md#instructor-duration-extend">Instructor Duration Extension</a>
+      <td style="text-align:left"><a href="../evidence/equipment/artifacts.md#instructor-duration-extend">Instructor Duration Extension</a>
       </td>
       <td style="text-align:left">ItzSomebody#0029</td>
     </tr>
     <tr>
       <td style="text-align:left">August 1</td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#prototype-starglitter-stacks-duration-refresh">Prototype Starglitter Stacks Duration</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#prototype-starglitter-stacks-duration-refresh">Prototype Starglitter Stacks Duration</a>
       </td>
       <td style="text-align:left">elijam#7142</td>
     </tr>
@@ -184,7 +184,7 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#pjws-new-stacks-extend-duration">PJWS New Stacks Extend Duration</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#pjws-new-stacks-extend-duration">PJWS New Stacks Extend Duration</a>
       </td>
       <td style="text-align:left">hawtlava#2461</td>
     </tr>

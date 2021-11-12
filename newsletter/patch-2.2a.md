@@ -15,15 +15,15 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 
 | Date | Entry | Author\(s\) |
 | :--- | :--- | :--- |
-| October 13 | [Luxurious Sea-Lord Interaction](../evidence/mechanics/equipment/weapons.md#luxurious-sea-lord-interactions) | CQLQRS#7853 |
+| October 13 | [Luxurious Sea-Lord Interaction](../evidence/equipment/weapons.md#luxurious-sea-lord-interactions) | CQLQRS#7853 |
 |  | [Azhdaha Tail Form has Two Hitboxes](../evidence/enemy-data/enemy-interactions.md#azhdaha-in-his-tail-form-has-two-independent-hitboxes) | ArchedNosi#1484 |
 |  | [Geo Construct Wave Dashing](../evidence/mechanics/combat/tech/glide-cancel.md#geo-construct-wave-dashing) | BowTae#0141 |
 |  | [Escaping Mirror Maiden Trap](../evidence/enemy-data/enemy-interactions.md#escape-mirror-maiden-trap) | gengar#8426 |
 |  | [Structures Are Not Enemies](../evidence/fluff/overworld.md#structures-arent-enemies) | anonpuffs#2537 |
-|  | [Weapon Stats for Inactive Characters](../evidence/mechanics/equipment/weapons.md#weapon-stats-for-inactive-characters) | Reens#9389 |
+|  | [Weapon Stats for Inactive Characters](../evidence/equipment/weapons.md#weapon-stats-for-inactive-characters) | Reens#9389 |
 | October 15 | [Diona's Icy Paws Despawn](../evidence/characters/cryo/diona.md#icy-paws-despawn-after-a-certain-amount-of-time-if-they-do-not-hit-a-target) | D.....K#9002 |
 | October 16 | [Sucrose's EM Share on Multiswirl is Dynamic](../evidence/characters/anemo/sucrose.md#sucroses-em-share-on-multiswirl-is-dynamic) | Rainfury#8343 |
-|  | [Event Weapons Cannot be Foddered](../evidence/mechanics/equipment/weapons.md#event-weapons-cannot-be-foddered) | CQLQRS#7853 |
+|  | [Event Weapons Cannot be Foddered](../evidence/equipment/weapons.md#event-weapons-cannot-be-foddered) | CQLQRS#7853 |
 |  | [Not All 2U Pyro Attacks Ignite Grass](../evidence/fluff/overworld.md#not-all-2u-pyro-attacks-ignite-grass) | Nass008#8577 |
 |  | [Exact Crowfeather Buff Timing](../evidence/characters/electro/sara.md#exact-crowfeather-buff-timing) | NZPIEFACE#8439 |
 |  | [Zhongli A1 Persists On Swap](../evidence/characters/geo/zhongli.md#zhongli-a1-persists-on-swap) | Latiwings#3308 |
@@ -31,7 +31,7 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 | October 17 | [Aloy And Sacrificial Bow Interaction](../evidence/characters/cryo/aloy.md#aloy-and-sac-bow-interaction) | Raven#9205 |
 |  | [Capped Enhancement Ores](../evidence/fluff/miscellaneous-entries.md#capped-enhancement-ores) | Kgbeast#6738 |
 |  | [Stats Not in Detailed Stat Page Aren't Snapshotted](../evidence/mechanics/gameplay-mechanics/snapshot-and-dynamic.md#stats-not-in-details-stat-page-are-not-snapshot) | Kidz#8667, Charliex3000#9403 |
-|  | [Instructor Doesn't Apply to Triggering Hit](../evidence/mechanics/equipment/artifacts.md#instructor-doesnt-apply-to-triggering-hit) | NZPIEFACE#8439 |
+|  | [Instructor Doesn't Apply to Triggering Hit](../evidence/equipment/artifacts.md#instructor-doesnt-apply-to-triggering-hit) | NZPIEFACE#8439 |
 |  | [Hold M1 Double Shot](../evidence/mechanics/combat/tech/arcc.md#hold-m1-double-shot) | BowTae#0141 |
 |  | [Character Talent Multiplier Database](../resources/links.md#characters) | ryaner#4559 |
 |  | [Qiqi Healing ICD](../evidence/characters/cryo/qiqi.md#qiqi-talisman-icd) | Nass008#8577, NZPIEFACE#8439 |
@@ -49,7 +49,7 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 |  | [Chest Rendering Range](../evidence/fluff/overworld.md#treasure-compass-chest-rendering) | Tibo#4309 |
 |  | [Healing Snapshotting](../evidence/mechanics/gameplay-mechanics/snapshot-and-dynamic.md#healing-over-time-is-snapshot-on-cast) | Dooners#6709 |
 |  | [Diona Dash Aim Cancel](../evidence/characters/cryo/diona#diona-dash-aim-cancel) | BowTae#0141 |
-|  | [Instructor Ignores Environmental Target And Your Characters](../evidence/mechanics/equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters) | elijam#7142 |
+|  | [Instructor Ignores Environmental Target And Your Characters](../evidence/equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters) | elijam#7142 |
 |  | [Boat Can't Eat](../evidence/mechanics/gameplay-mechanics/lifeskills.md#boat-stamina-and-food) | Ayzel#7399 |
 |  | [Geo Traveler E Breaks Geo Hypostasis Pillar](../evidence/enemy-data/enemy-interactions.md#geo-hypostasis) | TarZ#6365 |
 | October 18 | [Noelle Burst Extension](../evidence/characters/geo/noelle.md#noelle-c6-burst-extension) | JonahFarc#7056 |
@@ -63,7 +63,7 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 |  | [Keqing C2 Inconsistent Procs](../evidence/characters/electro/keqing.md#keqing-c2-procs-inconsistently) | Sayline#5959 |
 | October 25 | [Hydro Slimes Apply Wet to Surroundings](../evidence/enemy-data/enemy-interactions.md#hydro-slimes-apply-wet-to-surroundings) | Rainfury#8343 |
 |  | [No Dash Dragonstrike](../evidence/mechanics/combat/tech/plunge.md#no-dash-dragonstrike) | BowTae#0141, GottaGoFast#7876 |
-| October 26 | [Prototype Amber Healing](../evidence/mechanics/equipment/weapons.md#prototype-amber-healing-clarification) | Reens#9389 |
+| October 26 | [Prototype Amber Healing](../evidence/equipment/weapons.md#prototype-amber-healing-clarification) | Reens#9389 |
 | October 28 | [Absorption Aura Check Inflicts Self Damage](../evidence/mechanics/gameplay-mechanics/elemental-absorption.md#absorption-aura-check-inflicts-self-damage) | Nass008#8577, CQLQRS#7853, Sayline#5959 |
 |  | [Sara Skill Patch 2.2 Update](../evidence/characters/electro/sara.md#sara-skill-patch-2.2-update) | NZPIEFACE#8439, Dooners#6709 |
 |  | [Coop Fish Trolling](../evidence/mechanics/gameplay-mechanics/lifeskills.md#co-op-fish-trolling) | Aevean Leeow#1362, Scavenger#6510 |
@@ -83,5 +83,5 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 |  | [Sara E Interaction with Electro MC Skill](../evidence/characters/electro/sara.md#pre-a4-emc-skill-er-buff-with-sara-) | WellWell#2868, Nass008#8577 |
 |  | [Swirl Chain Reaction can Trigger Electro Resonance](../evidence/mechanics/gameplay-mechanics/elemental-resonance.md#swirl-chain-reactions-can-trigger-electro-resonance) | vinsette#0293 |
 |  | [Corrosion Damage Mechanics Update](../evidence/enemy-data/enemy-interactions.md#corrosion-damage-mechanics-update) | Dooners#6709 |
-|  | [Mathematical Analysis of Royal Weapon Effective Crit Rate](../evidence/mechanics/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate) | NZPIEFACE#8439 |
+|  | [Mathematical Analysis of Royal Weapon Effective Crit Rate](../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate) | NZPIEFACE#8439 |
 |  | [Barbara C6 Revive Can Be Canceled by Switching](../evidence/characters/hydro/barbara.md#c6-revive-can-be-canceled-by-switching) | yolitme0#0579 |

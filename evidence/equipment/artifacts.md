@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../mechanics/equipment/artifacts.md" %}
+{% page-ref page="../../equipment/artifacts.md" %}
 
 ## Archaic Petra
 
@@ -524,11 +524,11 @@ If a character can cast their elemental skill and then burst in about less than 
 
 **Data:**
 
-![](../../../.gitbook/assets/data.png)
+![](../../.gitbook/assets/data.png)
 
 **Result:**
 
-![](../../../.gitbook/assets/result.png)
+![](../../.gitbook/assets/result.png)
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 

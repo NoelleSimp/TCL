@@ -21,7 +21,7 @@ description: 'Zhongli Banner ft. Yanfei, Diona, and Noelle'
 | [New Page on Snapshotting and Dynamic Mechanics](../../mechanics/gameplay-mechanics/snapshot-and-dynamic.md) | ~ | 5/15 |
 | [Sucrose C4 Mechanics](../../evidence/characters/anemo/sucrose.md#sucrose-c4-mechanics) | Sitri\#9504 | 5/14 |
 | [Freeze Interaction on Boss Enemies](../../evidence/mechanics/enemies/enemy-interactions.md#freeze-interaction-on-boss-enemies) | Yukarix\#6534 | 5/14 |
-| [Wolf's Gravestone Procs Don't Stack](../../evidence/mechanics/equipment/weapons.md#wolfs-gravestone-procs-dont-stack) | JonahFarc\#7056 | 5/13 |
+| [Wolf's Gravestone Procs Don't Stack](../../evidence/equipment/weapons.md#wolfs-gravestone-procs-dont-stack) | JonahFarc\#7056 | 5/13 |
 | [Mona Omen and C1 Buff Mechanics](../../evidence/characters/hydro/mona.md#mona-omen-and-c1-buff-mechanics) | Kgbeast\#6738 | 5/13 |
 | [4 TOM Passive on Zhongli Procs With Other Geo Constructs](../../evidence/characters/geo/zhongli.md#4-tom-passive-on-zhongli-procs-with-other-geo-constructs) | Lowy\#7647 | 5/13 |
 | [Childe Melee Charged Attack Misses Stunned Ruin Guard](../../evidence/characters/hydro/tartaglia.md#childe-melee-charged-attack-misses-stunned-ruin-guard) | EdisonsMathsClub\#6469 | 5/11 |
@@ -35,7 +35,7 @@ description: 'Zhongli Banner ft. Yanfei, Diona, and Noelle'
 | [Polearm Charge Attacks Don't Register On Stunned Ruin Guards](../../evidence/mechanics/enemies/enemy-interactions.md#polearm-charge-attacks-dont-register-on-stunned-ruin-guards) | itskhoi\#0013 | 5/10 |
 | [Wake of Earth Blocks Geovishap Jump](../../evidence/characters/geo/traveler-geo.md#wake-of-earth-blocks-geovishap-jump) | Terrapin\#8603 | 5/7 |
 | [C6 Yanfei Stamina Consumed Reduction](../../evidence/characters/pyro/yanfei.md#c6-yanfei-stamina-consumed-reduction) | bbwalrus\#8456 | 5/7 |
-| [Sacrificial Passive With Multiple E Stacks](../../evidence/mechanics/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) | mol\#3280 | 5/7 |
+| [Sacrificial Passive With Multiple E Stacks](../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) | mol\#3280 | 5/7 |
 | [Auto Attack Energy Mechanics](../../evidence/mechanics/gameplay-mechanics/attributes/energy.md#auto-attack-energy-mechanics) | xf3\#3123 and Zeitraffer\#1074 | 5/7 |
 | [Xingqiu Rain Sword ICD](../../evidence/characters/hydro/xingqiu.md#xingqiu-rain-sword-icd) | Ayzel\#7399 | 5/7 |
 | [Baron Bunny's Aura](../../evidence/characters/pyro/amber.md#baron-bunnys-aura) | Aluminum\#5462 | 5/6 |

@@ -19,7 +19,7 @@ We have also onboarded quite a few new interns to help clear out the ticket wall
 
 | Date | Entry | Author\(s\) |
 | :--- | :--- | :--- |
-| June 27 | [Royal Weapon AOE Abilities and Mechanics](../../evidence/mechanics/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics) | Bobrokrot\#0111 |
+| June 27 | [Royal Weapon AOE Abilities and Mechanics](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics) | Bobrokrot\#0111 |
 |  | [Electrified Water Properties](../../evidence/mechanics/fluff/overworld.md#electrified-water-properties) | RazorClaws\#4343 |
 |  | [Chongyun E and A4 Interactions](../../evidence/characters/cryo/chongyun.md#chongyun-e-and-a4-interactions) | DeFault\#1802 |
 | June 26 | [Optimization with 3 Variables Solution](../../resources/links.md#miscellaneous) | paimonbukyi\#8800 |
@@ -28,11 +28,11 @@ We have also onboarded quite a few new interns to help clear out the ticket wall
 |  | [Transformative Reaction Damage on Shields](../../evidence/mechanics/enemies/enemy-shields.md#transformative-reaction-damage-on-shields) | vibe checker\#5502 |
 |  | [Ningguang's Burst Does Snapshot](../../evidence/characters/geo/ningguang.md#ningguang-burst-does-snapshot) | 4 Theorycrafters |
 |  | [Harpastum Cancel](../../evidence/mechanics/fluff/miscellaneous-entries.md#harpastum-cancel) | Episodde\#8962 |
-|  | [4VV Res Shred Mechanics](../../evidence/mechanics/equipment/artifacts.md#4pc-viridescent-venerer-res-shred-mechanics) | SirBoi\#1101 |
-|  | [Gaining Crimson Witch Stacks Refreshes Duration of Old Stacks](../../evidence/mechanics/equipment/artifacts.md#gaining-stacks-refreshes-the-duration-of-old-stacks) | Greyhound\#7836 |
-|  | [Crimson Witch Stacks Remain after Swapping Characters](../../evidence/mechanics/equipment/artifacts.md#crimson-witch-stacks-remain-after-swapping-characters) | Greyhound\#7836 |
-|  | [Pale Flame Stacks Persist after Swap](../../evidence/mechanics/equipment/artifacts.md#4pc-pale-flame-stacks-persist-after-swap) | Greyhound\#7836 |
-|  | [2 Piece Bolide Only Works on Wielder](../../evidence/mechanics/equipment/artifacts.md#2-piece-set-bonus-only-works-on-user) | Greyhound\#7836 |
+|  | [4VV Res Shred Mechanics](../../evidence/equipment/artifacts.md#4pc-viridescent-venerer-res-shred-mechanics) | SirBoi\#1101 |
+|  | [Gaining Crimson Witch Stacks Refreshes Duration of Old Stacks](../../evidence/equipment/artifacts.md#gaining-stacks-refreshes-the-duration-of-old-stacks) | Greyhound\#7836 |
+|  | [Crimson Witch Stacks Remain after Swapping Characters](../../evidence/equipment/artifacts.md#crimson-witch-stacks-remain-after-swapping-characters) | Greyhound\#7836 |
+|  | [Pale Flame Stacks Persist after Swap](../../evidence/equipment/artifacts.md#4pc-pale-flame-stacks-persist-after-swap) | Greyhound\#7836 |
+|  | [2 Piece Bolide Only Works on Wielder](../../evidence/equipment/artifacts.md#2-piece-set-bonus-only-works-on-user) | Greyhound\#7836 |
 | June 25 | [Shield Reflection Mechanic](../../evidence/mechanics/enemies/enemy-interactions.md#shield-reflection-mechanic) | Mcpie\#8672 |
 |  | [Hu Tao + Xiangling Team Reaction Rates](../../evidence/characters/pyro/hu-tao.md#hutao-and-xiangling-vape) | Ayzel\#7399 & friends |
 |  | [Electrified Environment Reaction](../../evidence/mechanics/fluff/overworld.md#electrified-environment-reaction) | Greyhound\#7836 |

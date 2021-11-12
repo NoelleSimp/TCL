@@ -19,7 +19,7 @@ description: 'Kokomi Banner ft. Beidou, Xingqiu, and Rosaria'
 | :--- | :--- | :--- |
 | September 21 | [Kokomi Basic Mechanics](../evidence/characters/hydro/kokomi.md) | KQM TC |
 | September 22 | [Qiqi Talisman Healing Does Not Snapshot](../evidence/characters/cryo/qiqi.md#talisman-does-not-snapshot) | Dooners#6709 |
-|  | [Self 4NO Interactions](../evidence/mechanics/equipment/artifacts.md#self-4no-interactions) | gtrain#9987 |
+|  | [Self 4NO Interactions](../evidence/equipment/artifacts.md#self-4no-interactions) | gtrain#9987 |
 |  | [Electrocharged Ticks aren't Affected by Hitlag](../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md#electro-charged-ticks-are-not-affected-by-hitlag) | BowlSoldier#3528 |
 |  | [Beidou Q Snapshot Timing](../evidence/characters/electro/beidou.md#beidous-q-snapshot-timing) | EdisonsMathsClub#6469 |
 |  | [Xingqiu Orbital Rain Sword ICD](../evidence/characters/hydro/xingqiu.md#xingqiu-actual-rain-sword-icd) | Tsym#2586 |
