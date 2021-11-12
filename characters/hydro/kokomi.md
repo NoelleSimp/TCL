@@ -264,7 +264,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 
 **Duration:**  10s  
 **Cooldown:**  18s  
-**Energy Cost:**  70
+**Energy Cost:**  70  
 {% endtab %}
 {% endtabs %}
 
