@@ -56,7 +56,7 @@ Consumes 50 Stamina to deal AoE Hydro DMG after a short casting time.
 **Plunge Attack**  
 Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| String | Talent 6% |
+| Type | Talent 6% |
 | :--- | :--- |
 | Plunge DMG | 82.6% |
 | Low Plunge DMG | 165.17% |
