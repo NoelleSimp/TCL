@@ -1,16 +1,17 @@
 ---
-description: >-
-  A traveler from another world who had their only kin taken away, forcing them
-  to embark on a journey to find The Seven.
+description: A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
 ---
 
 # Traveler \(Anemo\)
+
+## Resources
+[Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
 
 ## ![](../../.gitbook/assets/element_anemo.png) Traveler \(Anemo\)
 
 ![](../../.gitbook/assets/anemo-traveler.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,7 +23,7 @@ description: >-
 | 80+ | 10122 | 198 | 635 | 24 |
 | 90 | 10875 | 212 | 683 | 24 |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Foreign Ironwind Lumine" %}
@@ -31,7 +32,7 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 64.63% | 14 | 276.8%/s |
 | 2-Hit | 63.13% | 43 | 178.1%/s |
@@ -42,7 +43,7 @@ Performs up to 5 rapid strikes.
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | N1C | 81.25%+105% | 62 | 242.8%/s |
 | N2C | 81.25%+105% | 84 | 224%/s |
@@ -65,7 +66,7 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 64.63% | 13 | 298.15%/s |
 | 2-Hit | 63.13% | 38 | 201.63%/s |
@@ -76,7 +77,7 @@ Performs up to 5 rapid strikes.
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | N1C | 81.25%+88.25% | 54 | 260.1%/s |
 | N2C | 81.25%+88.25% | 90 | 198.1%/s |
@@ -85,9 +86,9 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
 **Plunge**
 
-| Damage Type | Talent 6% |
+| Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
+| Plunge DMG | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 230.09% |
 
@@ -268,11 +269,6 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
-* [Full Anemo Traveler Written Guide](https://keqingmains.com/anemo-traveler/)
 
 **Evidence Vault:**
 
