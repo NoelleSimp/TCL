@@ -122,8 +122,7 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Frames | 27 | 61 |
 | Particles | 2 | 3~4 (2:1) |
 | Snapshot | Snapshot(?) | Snapshot(?) |
-| Damage Element | Anemo | Anemo |
-| Absorption Damage Element | Cryo>Pyro>Hydro>Electro | Cryo>Pyro>Hydro>Electro |
+| Damage Element | Anemo | Anemo </tr><tr><td>Absorption Damage Element</td><td colspan="2">Cryo > Pyro > Hydro > Electro</td></tr>
 | Damage Type | Elemental Skill | Elemental Skill |
 | GU | 1U | 1U |
 | ICD | 3 hit/2.5s | 3hit/2.5s |
