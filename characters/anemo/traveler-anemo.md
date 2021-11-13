@@ -1,5 +1,7 @@
 ---
-description: A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
+description: >-
+  A traveler from another world who had their only kin taken away, forcing them
+  to embark on a journey to find The Seven.
 ---
 
 # Traveler \(Anemo\)
@@ -11,7 +13,7 @@ description: A traveler from another world who had their only kin taken away, fo
 
 ![](../../.gitbook/assets/anemo-traveler.png)
 
-## Base Stats
+## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +25,7 @@ description: A traveler from another world who had their only kin taken away, fo
 | 80+ | 10122 | 198 | 635 | 24 |
 | 90 | 10875 | 212 | 683 | 24 |
 
-## Attacks
+## **Attacks**
 
 {% tabs %}
 {% tab title="Foreign Ironwind Lumine" %}
@@ -32,7 +34,7 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 64.63% | 14 | 276.8%/s |
 | 2-Hit | 63.13% | 43 | 178.1%/s |
@@ -43,18 +45,22 @@ Performs up to 5 rapid strikes.
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 81.25%+105% | 62 | 242.8%/s |
-| N2C | 81.25%+105% | 84 | 224%/s |
-| N3C | 81.25%+105% | 115 | 204%/s |
-| N4C | 81.25%+105% | 160 | 178.4%/s |
+| String | Talent 6% |
+| :--- | :--- |
+| Charged Attack | 81.25%+105% |
+
+| Combo | Frames | Talent 6% MV/s |
+| :--- | :--- | :--- |
+| N1C | 62 | 242.8%/s |
+| N2C | 84 | 224%/s |
+| N3C | 115 | 204%/s |
+| N4C | 160 | 178.4%/s |
 
 **Plunge**
 
-| Damage Type | Talent 6% |
+| Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
+| Plunge DMG | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 230.09% |
 
@@ -66,7 +72,7 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 64.63% | 13 | 298.15%/s |
 | 2-Hit | 63.13% | 38 | 201.63%/s |
@@ -77,12 +83,16 @@ Performs up to 5 rapid strikes.
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 81.25%+88.25% | 54 | 260.1%/s |
-| N2C | 81.25%+88.25% | 90 | 198.1%/s |
-| N3C | 81.25%+88.25% | 115 | 195.2%/s |
-| N4C | 81.25%+88.25% | 160 | 172.1%/s |
+| String | Talent 6% |
+| :--- | :--- |
+| Charged Attack | 81.25%+88.25% |
+
+| Combo | Frames | Talent 6% MV/s |
+| :--- | :--- | :--- |
+| N1C | 54 | 260.1%/s |
+| N2C | 90 | 198.1%/s |
+| N3C | 115 | 195.2%/s |
+| N4C | 160 | 172.1%/s |
 
 **Plunge**
 
@@ -102,18 +112,21 @@ The **Vortex** explodes when the skill duration ends, dealing more Anemo DMG ove
 
 If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type. This only occurs once per use.
 
-| Type | Talent 6% | Frames | GU | Particles |
-| :--- | :--- | :--- | :--- | :--- |
-| Initial Cutting DMG \(x2\) | 16.8% | ~ | 1GU | ~ |
-| Max Cutting DMG \(x4\) | 23.5% | ~ | 1GU | ~ |
-| Initial Storm DMG | 246% | ~ | 1GU | ~ |
-| Max Storm DMG | 269% | ~ | 1GU | ~ |
-| Initial Cutting Elemental DMG \(x2\) | 4.2% | ~ | 1GU(?) | ~ |
-| Max Cutting Elemental DMG \(x4\) | 5.88% | ~ | 1GU(?) | ~ |
-| Initial Storm Elemental DMG | 61.5% | ~ | 1GU(?) | ~ |
-| Max Storm Elemental DMG | 67.25% | ~ | 1GU | ~ |
-| Base Cooldown | 5s | 27 | ~ | 2 |
-| Max Charge Cooldown | 8s | 61 | ~ | 3~4 \(2:1\) |  
+| Attribute | Tap (Talent 6%) | Hold (Talent 6%)
+| :--- | :--- | :--- |
+| Cutting DMG | 16.8% x 2 | 23.5% x 4 |
+| Absorption Cutting DMG | 4.2% x 2 | 5.88% x 4 |
+| Storm DMG | 246% | 269% |
+| Absorption Storm DMG | 61.5% | 67.25% |
+| Cooldown | 5s | 27s |
+| Frames | 27 | 61 |
+| Particles | 2 | 3~4 (2:1) |
+| Snapshot | Snapshot(?) | Snapshot(?) |
+| Damage Element | Anemo | Anemo |
+| Absorption Damage Element | Cryo>Pyro>Hydro>Electro | Cryo>Pyro>Hydro>Electro |
+| Damage Type | Elemental Skill | Elemental Skill |
+| GU | 1U | 1U |
+| ICD | 3 hit/2.5s | 3hit/2.5s |
 * Infusion priority: Cryo > Pyro > Hydro > Electro  
 * The additional elemental damage dealt upon contact with Hydro/Pyro/Cryo/Electro is 0.25x the anemo damage dealt.
 {% endtab %}
