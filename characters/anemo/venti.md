@@ -6,6 +6,11 @@ description: >-
 
 # Venti
 
+## Resources
+* [Venti Guide](https://keqingmains.com/venti/)
+* [Venti Mains Discord](https://discord.gg/ventimains)
+
+
 ## ![](../../.gitbook/assets/element_anemo.png)Venti
 
 ![](../../.gitbook/assets/character_venti_wish.webp)
@@ -42,12 +47,12 @@ Perform up to 6 consecutive shots with a bow.
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Anemo DMG.
 
-| String | Talent 6% | GU | Frames | MV\s |
+| Type | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | ~ | 26 | 147.1%/s |
-| Fully-Charged Aimed Shot | 173.60% | 1U | 86 | 121.1%/s |
+| Aimed Shot | 63.75% | 26 | 147.1%/s | ~ |
+| Fully Charged | 173.60% | 86 | 121.1%/s | 1U |
 
-**Plunge Damage**  
+**Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
 | Type | Talent 6% |
@@ -68,10 +73,17 @@ Summons a larger **Wind Domain** at Venti's location, dealing AoE Anemo DMG and 
 
 * Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
-| Effect | Talent 6% | CD | Frames | GU | Particles |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s | 20 | 2U | 3 \(-\) |
-| Hold | 532% | 15s | 70 | 2U | 4 \(-\) |
+| Attribute | Tap | Hold |
+| :--- | :--- | :--- |
+| Skill DMG (T6%) | 386.40% | 532% |
+| Particles | 3 \(-\) | 4 \(-\) |
+| Frames | 20 | 70 |
+| GU | 2U | 2U | 
+| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
+| Snapshot | Snapshot(?) | Snapshot(?) |
+| Damage Element | Anemo | Anemo | 
+| Damage Type | Elemental Skill | Elemental Skill |
+| Cooldown | 6s | 15s |
 
 * Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
 * Venti can shorten the starting animation of the press version of **Skyward Sonnet** by holding Elemental Skill for 9 frames, which starts the animation for the hold version of **Skyward Sonnet**, and then releasing, which cancels the hold version into a press version of **Skyward Sonnett**. This allows Venti to perform an action immediately after. In total, the **Skyward Sonnet** cast can be cancelled to be only 10 frames.
@@ -86,29 +98,26 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 * If the **Stormeye** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type.
 * This can only occur once per use.
 
-| Effect | Talent 6% |
-| :--- | :--- |
-| DoT | 52.64% |
-| Additional Elemental DMG | 26.32% |
-| Duration | 8s |
-| CD | 15s |
-| GU | 1U |
-| Energy Cost | 60 |  
-| Frames | 94 |  
+| Attribute | Burst DoT | Burst Additional Elemental DMG |
+| :--- | :--- | :--- |
+| Skill DMG (T6%) | 52.64% | 26.32% |
+| Frames | 94 | \(-\) |
+| GU | 1U | 1A |
+| ICD | 3 hits / 2.5s | 3 hits / 2.5s |
+| Duration | 8s | 6.4s |
+| Total Ticks | 20 | 16 |
+| Snapshot | Snapshot | Snapshot |
+| Damage Element | Anemo | Absorbed Element | 
+| Damage Type | Elemental Burst | Elemental Burst |
+| CD | 15s | \(-\) |
+| Energy Cost | 60 | \(-\) |
 
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti cannot lift enemies that are more than 20 levels above his level.
-* Stormeye damage tick information:
-  * 20 ticks of Anemo DMG
-  * Maximum of 16 ticks of Additional Elemental DMG
-    * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
-    * This number of ticks will always be reached in the original burst area, no matter the time of infusion.
-  * Every third Anemo DoT tick applies 1U Anemo, for a maximum of 7 swirls.
-    * this number can be increased to 14 swirls per enemy if there's more than one enemy in Venti's Burst
-* Every third infused elemental tick applies 1U of the absorbed element, for a maximum of 6 applications.
-* Venti's burst snapshots.
+* Elemental absorption can occur at soonest, **after the 4th Anemo tick**
+    * The additional elemental DMG will always deal 16 ticks of damage in the original burst area, no matter the time of absorption.
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
-* Infusion priority: Pyro > Hydro > Electro > Cryo  
+* Absorption priority: Pyro > Hydro > Electro > Cryo  
 
 {% endtab %}
 {% endtabs %}
@@ -243,12 +252,6 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
-
-## External Links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Venti)
-* [Venti Mains Discord](https://discord.gg/ventimains)
-* [Venti Written Guide](https://keqingmains.com/venti/)
 
 **Evidence Vault**
 
