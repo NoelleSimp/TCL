@@ -48,7 +48,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | String | Talent 6% |
 | :--- | :--- |
 | Charged Attack | 81.25%+105% |
-***
+
 | Combo | Frames | Talent 6% MV/s |
 | :--- | :--- | :--- |
 | N1C | 62 | 242.8%/s |
@@ -86,7 +86,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | String | Talent 6% |
 | :--- | :--- |
 | Charged Attack | 81.25%+88.25% |
-***
+
 | Combo | Frames | Talent 6% MV/s |
 | :--- | :--- | :--- |
 | N1C | 54 | 260.1%/s |
@@ -129,7 +129,7 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Absorption GU | ~ | 1A (?) |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 * Infusion priority: Cryo > Pyro > Hydro > Electro
-* When held beyond the first two Cutting DMG hits, the skill's cooldown, particle generation, and damage is increased.
+* When held beyond the first two Cutting DMG hits, the skill's damage, particle generation, and cooldown are all increased.
 {% endtab %}
 
 {% tab title="Gust Surge" %}
