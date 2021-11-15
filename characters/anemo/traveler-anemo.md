@@ -118,16 +118,16 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Absorption DMG | ~ | 4.2% x 2 + 5.88% x 4 |
 | Storm DMG | 246% | 246% / 269% |
 | Absorption DMG | ~ | 61.5% / 67.25% |
-| Cooldown | 5s | 5s / 8s |
-| Frames | 27 | 27~61 |
 | Particles | 2 | 2 / 3~4 (2:1) |
+| Frames | 27 | 27~61 |
+| GU | 1U | 1U |
+| Absorption GU | ~ | 1A (?) |
+| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | Snapshot (?) | Snapshot (?) |
 | Damage Element | Anemo | Anemo |
 | Absorption Element | ~ | Cryo/Pyro/Hydro/Electro |
 | Damage Type | Elemental Skill | Elemental Skill |
-| GU | 1U | 1U |
-| Absorption GU | ~ | 1A (?) |
-| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
+| Cooldown | 5s | 5s / 8s |
 * Infusion priority: Cryo > Pyro > Hydro > Electro
 * When held beyond the first two Cutting DMG hits, the skill's damage, particle generation, and cooldown are all increased.
 {% endtab %}
@@ -144,12 +144,12 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | Tornado DMG | 113% |
 | Absorption DMG | 34.7% |
 | Frames | 41 |
-| Damage Element | Anemo |
-| Absorption Element | Cryo/Pyro/Hydro/Electro |
-| Damage Type | Elemental Burst |
 | GU | 1U |
 | Absorption GU | 1A (?) |
 | ICD | 3 hit / 2.5s (?) |
+| Damage Element | Anemo |
+| Absorption Element | Cryo/Pyro/Hydro/Electro |
+| Damage Type | Elemental Burst |
 | Energy Cost | 60 |
 | Duration | 6s |
 | Cooldown | 15s |
