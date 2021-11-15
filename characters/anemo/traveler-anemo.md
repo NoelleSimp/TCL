@@ -48,7 +48,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | String | Talent 6% |
 | :--- | :--- |
 | Charged Attack | 81.25%+105% |
-
+***
 | Combo | Frames | Talent 6% MV/s |
 | :--- | :--- | :--- |
 | N1C | 62 | 242.8%/s |
@@ -86,7 +86,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | String | Talent 6% |
 | :--- | :--- |
 | Charged Attack | 81.25%+88.25% |
-
+***
 | Combo | Frames | Talent 6% MV/s |
 | :--- | :--- | :--- |
 | N1C | 54 | 260.1%/s |
@@ -114,21 +114,22 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 
 | Attribute | Tap (Talent 6%) | Hold (Talent 6%)
 | :--- | :--- | :--- |
-| Cutting DMG | 16.8% x 2 | 23.5% x 4 |
-| Absorption Cutting DMG | 4.2% x 2 | 5.88% x 4 |
-| Storm DMG | 246% | 269% |
-| Absorption Storm DMG | 61.5% | 67.25% |
-| Cooldown | 5s | 27s |
-| Frames | 27 | 61 |
-| Particles | 2 | 3~4 (2:1) |
-| Snapshot | Snapshot(?) | Snapshot(?) |
+| Cutting DMG | ~ | 16.8% x 2 + 23.5% x 4 |
+| Absorption DMG | ~ | 4.2% x 2 + 5.88% x 4 |
+| Storm DMG | 246% | 246% / 269% |
+| Absorption DMG | ~ | 61.5% / 67.25% |
+| Cooldown | 5s | 5s / 8s |
+| Frames | 27 | 27~61 |
+| Particles | 2 | 2 / 3~4 (2:1) |
+| Snapshot | Snapshot (?) | Snapshot (?) |
 | Damage Element | Anemo | Anemo |
-| Absorption Damage Element | Cryo>Pyro>Hydro>Electro | Cryo>Pyro>Hydro>Electro |
+| Absorption Element | ~ | Cryo/Pyro/Hydro/Electro |
 | Damage Type | Elemental Skill | Elemental Skill |
 | GU | 1U | 1U |
-| ICD | 3 hit/2.5s | 3hit/2.5s |
-* Infusion priority: Cryo > Pyro > Hydro > Electro  
-* The additional elemental damage dealt upon contact with Hydro/Pyro/Cryo/Electro is 0.25x the anemo damage dealt.
+| Absorption GU | ~ | 1A (?) |
+| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
+* Infusion priority: Cryo > Pyro > Hydro > Electro
+* When held beyond the first two Cutting DMG hits, the skill's cooldown, particle generation, and damage is increased.
 {% endtab %}
 
 {% tab title="Gust Surge" %}
@@ -138,15 +139,20 @@ A forward-moving **tornado** is summoned and pulls objects and opponents towards
 
 If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal a percentage of additional elemental DMG of that type. Elemental Absorption may only occur once per use.
 
-| Effect | Talent 6% / Data |
+| Attribute | Talent 6% / Data |
 | :--- | :--- |
 | Tornado DMG | 113% |
-| Additional Elemental DMG | 34.7% |
+| Absorption DMG | 34.7% |
+| Frames | 41 |
+| Damage Element | Anemo |
+| Absorption Element | Cryo/Pyro/Hydro/Electro |
+| Damage Type | Elemental Burst |
+| GU | 1U |
+| Absorption GU | 1A (?) |
+| ICD | 3 hit / 2.5s (?) |
+| Energy Cost | 60 |
 | Duration | 6s |
 | Cooldown | 15s |
-| GU | 1GU |
-| Energy Cost | 60 |  
-| Frames | 41 |  
 * Infusion priority: Cryo > Pyro > Hydro > Electro  
 
 {% endtab %}
@@ -230,19 +236,19 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.63 | 70.31 | 76 | 81.69 | 87.89 | 94.09 |
-| 2-Hit DMG | 63.13 | 68.68 | 74.23 | 79.79 | 85.85 | 91.91 |
-| 3-Hit DMG | 77 | 83.78 | 90.55 | 97.33 | 104.72 | 112.11 |
-| 4-Hit DMG | 84.75 | 92.21 | 99.67 | 107.12 | 115.26 | 123.40 |
-| 5-Hit DMG | 102.88 | 111.93 | 120.98 | 130.03 | 139.91 | 149.79 |
+| 1-Hit DMG | 64.63% | 70.31% | 76% | 81.69% | 87.89% | 94.09% |
+| 2-Hit DMG | 63.13% | 68.68% | 74.23% | 79.79% | 85.85% | 91.91% |
+| 3-Hit DMG | 77% | 83.78% | 90.55% | 97.33% | 104.72% | 112.11% |
+| 4-Hit DMG | 84.75% | 92.21% | 99.67% | 107.12% | 115.26% | 123.40% |
+| 5-Hit DMG | 102.88% | 111.93% | 120.98% | 130.03% | 139.91% | 149.79% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 81.25 | 88.40 | 95.55 | 102.70 | 110.50 | 118.30 |
-| Lumine Charged Attack 2 DMG | 105 | 114.24 | 123.48 | 132.72 | 142.80 | 152.88 |
-| Aether Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
+| Charged Attack 1 DMG | 81.25% | 88.40% | 95.55% | 102.70% | 110.50% | 118.30% |
+| Lumine Charged Attack 2 DMG | 105% | 114.24% | 123.48% | 132.72% | 142.80% | 152.88% |
+| Aether Charged Attack 2 DMG | 88.25% | 96.02% | 103.78% | 111.55% | 120.02% | 128.49% |
 
 **Stamina Cost**: 20
 
@@ -250,22 +256,22 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
-| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
-| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 {% endtab %}
 
 {% tab title="Palm Vortex" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Initial Cutting DMG | 16.80 | 18 | 19.20 | 20.40 | 21.60 | 22.80 | 24 | 25.50 |
-| Max Cutting DMG | 23.52 | 25.20 | 26.88 | 28.56 | 30.24 | 31.92 | 33.60 | 35.70 |
-| Initial Storm DMG | 246.40 | 264 | 281.60 | 299.20 | 316.80 | 334.40 | 352 | 374 |
-| Max Storm DMG | 268.80 | 288 | 307.20 | 326.40 | 345.60 | 364.80 | 384 | 408 |
-| Initial Cutting Elemental DMG | 4.20 | 4.50 | 4.80 | 5.10 | 5.40 | 5.70 | 6 | 6.38 |
-| Max Cutting Elemental DMG | 5.88 | 6.30 | 6.72 | 7.14 | 7.56 | 7.98 | 8.40 | 8.93 |
-| Initial Storm Elemental DMG | 61.60 | 66 | 70.40 | 74.80 | 79.20 | 83.60 | 88 | 93.50 |
-| Max Storm Elemental DMG | 67.20 | 72 | 76.80 | 81.60 | 86.40 | 91.20 | 96 | 102 |
+| Initial Cutting DMG | 16.80% | 18% | 19.20% | 20.40% | 21.60% | 22.80% | 24 | 25.50% |
+| Initial Cutting Elemental DMG | 4.20% | 4.50% | 4.80% | 5.10% | 5.40% | 5.70% | 6% | 6.38% |
+| Max Cutting DMG | 23.52% | 25.20% | 26.88% | 28.56% | 30.24% | 31.92% | 33.60% | 35.70% |
+| Max Cutting Elemental DMG | 5.88% | 6.30% | 6.72% | 7.14% | 7.56% | 7.98% | 8.40% | 8.93% |
+| Initial Storm DMG | 246.40% | 264% | 281.60% | 299.20% | 316.80% | 334.40% | 352% | 374% |
+| Initial Storm Elemental DMG | 61.60% | 66% | 70.40% | 74.80% | 79.20% | 83.60% | 88% | 93.50% |
+| Max Storm DMG | 268.80% | 288% | 307.20% | 326.40% | 345.60% | 364.80% | 384% | 408% |
+| Max Storm Elemental DMG | 67.20% | 72% | 76.80% | 81.60% | 86.40% | 91.20% | 96% | 102% |
 
 **Cooldown**: 5s  
 **Max Charge Cooldown**: 8s
@@ -274,8 +280,8 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 {% tab title="Gust Surge" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tornado DMG | 113.12 | 121.20 | 129.28 | 137.36 | 145.44 | 153.52 | 161.60 | 171.70 |
-| Additional Elemental DMG | 34.72 | 37.20 | 39.68 | 42.16 | 44.64 | 47.12 | 49.60 | 52.70 |
+| Tornado DMG | 113.12% | 121.20% | 129.28% | 137.36% | 145.44% | 153.52% | 161.60% | 171.70% |
+| Additional Elemental DMG | 34.72% | 37.20% | 39.68% | 42.16% | 44.64% | 47.12% | 49.60% | 52.70% |
 
 **Energy Cost**: 60  
 **Duration**: 6s  
