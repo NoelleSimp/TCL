@@ -98,7 +98,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG (T6%) | 52.64% x 20|
+| DoT DMG (T6%) | 52.64% x 20|
 | Absorption DMG (T6%) | 26.32% x 16|
 | Frames | 94 |
 | GU | 1U |
@@ -117,7 +117,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 * Venti cannot lift enemies that are more than 20 levels above his level.
 * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
     * The absorption DMG will always deal 16 ticks of damage in the original burst area, no matter the time of absorption.
-    * The absorption DMG does not share ICD with the skill DMG
+    * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
 
