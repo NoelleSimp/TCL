@@ -139,14 +139,15 @@ A forward-moving **tornado** is summoned and pulls objects and opponents towards
 
 If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal a percentage of additional elemental DMG of that type. Elemental Absorption may only occur once per use.
 
-| Attribute | Talent 6% / Data |
+| Attribute | Burst (Talent 6%) |
 | :--- | :--- |
 | Tornado DMG | 113% |
 | Absorption DMG | 34.7% |
 | Frames | 41 |
 | GU | 1U |
 | Absorption GU | 1A (?) |
-| ICD | 3 hit / 2.5s (?) |
+| ICD | 3 hit / 2.5s |
+| Snapshot | Snapshot (?) |
 | Damage Element | Anemo |
 | Absorption Element | Cryo/Pyro/Hydro/Electro |
 | Damage Type | Elemental Burst |
@@ -172,6 +173,7 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.
 
+* Applies 1U Anemo
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 {% endtab %}
