@@ -33,9 +33,9 @@ Performs up to 3 consecutive attacks that take the form of swimming fish, dealin
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 95.73% | 10 | 574.38%/s | 1A |
-| 2-Hit DMG | 86.15% | 36 | 303.13%/s | 1A |
-| 3-Hit DMG | 132.03% | 82 | 229.69%/s | 1A |
+| 1-Hit | 95.73% | 10 | 574.38%/s | 1A |
+| 2-Hit | 86.15% | 36 | 303.13%/s | 1A |
+| 3-Hit | 132.03% | 82 | 229.69%/s | 1A |
 | With Recovery | ~ | 122 | 154.38%/s | ~ |
 
 * Kokomi's Normal Attacks...
