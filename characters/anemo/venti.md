@@ -103,8 +103,8 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 | Frames | 94 |
 | GU | 1U |
 | Absorption GU | 1A |
-| ICD | 3 hits / 2.5s |
-| Absorption ICD | 3 hits / 2.5s |
+| ICD | 1s |
+| Absorption ICD | 1s |
 | Duration | 8s |
 | Snapshot | Snapshot |
 | Damage Element | Anemo |
