@@ -1,28 +1,29 @@
 ---
-description: >-
-  Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices
-  using her music and passionate singing.
+description: Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.
 ---
 
 # Xinyan
+
+## Resources
+[A Guide to Liyue’s Rockstar](https://keqingmains.com/xinyan/)
 
 ## ![](../../.gitbook/assets/element_pyro.png) Xinyan
 
 ![](../../.gitbook/assets/character_xinyan_wish.webp)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7379 | 164 | 526 | 12 |
-| 60+ | 7878 | 175 | 562 | 12 |
-| 70 | 8653 | 192 | 617 | 12 |
-| 70+ | 9151 | 203 | 652 | 18 |
-| 80 | 9927 | 220 | 708 | 18 |
-| 80+ | 10425 | 231 | 743 | 24 |
-| 90 | 11201 | 249 | 799 | 24 |
+| 60 | 7379 | 164 | 526 | 12% |
+| 60+ | 7878 | 175 | 562 | 12% |
+| 70 | 8653 | 192 | 617 | 12% |
+| 70+ | 9151 | 203 | 652 | 18% |
+| 80 | 9927 | 220 | 708 | 18% |
+| 80+ | 10425 | 231 | 743 | 24% |
+| 90 | 11201 | 249 | 799 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Dance on Fire" %}
@@ -67,39 +68,64 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 * **Rave** will also deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
 * A higher level shield can be overwritten by a lower level one when using Sacrificial greatsword or casting the shield while already having one from C2 burst.
 
-| Effect | Talent 6% |
+| Attribute | Skill (Talent 6%) |
 | :--- | :--- |
 | Skill DMG | 237.44% |
 | Rave DMG | 47.04% |
-| L1 **Ad Lib** | 145.06%Def + 793 |
-| L2 **Lead-In** | 171.36%Def + 932 |
-| L3 **Rave** | 201.6%Def + 1097 |
-| Duration | 12s |
-| Cooldown | 18s |
-| Particles | 4 \(-\) |
-| Intial hit GU | 1A |
-| Rave GU | 1A |
+| Tick Rate | 2s |
+| Particles | 4 |
 | Frames | 65 |
+| GU | 1A |
+| ICD | None |
+| Snapshot | Dynamic |
+| Damage Type | Elemental Skill |
+| Damage Element | Pyro |
+| Cooldown | 18s |
+
+| Attribute | Shield (Talent 6%) |
+| :--- | :--- |
+| L1 **Ad Lib** | 145.06% Def + 793 |
+| L2 **Lead-In** | 171.36% Def + 932 |
+| L3 **Rave** | 201.6% Def + 1097 |
+| Elemental Type | Pyro |
+| Duration | 12s |
 {% endtab %}
 
 {% tab title="Riff Revolution" %}
 Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflicting a Pyro DoT.
 
-* The Pyro DoT ticks 7 times over 2 seconds. 
-
-| Effect | Talent 6% |
+| Effect | Burst (Talent 6%) |
 | :--- | :--- |
 | Skill DMG | 477.12% |
-| DoT DMG | 56% |
-| Duration | 2s |
-| CD | 15s |
-| Energy Cost | 60 |
-| GU | 1A |
+| DoT DMG | 56% x 7 |
 | Frames | 98 |
+| GU | 1A |
+| ICD | 3 hit / 2.5s |
+| Damage Type | Elemental Burst |
+| Damage Element | Physical |
+| DoT Element | Pyro |
+| Snapshot | Snapshot (?) |
+| Energy Cost | 60 |
+| Duration | 2s |
+| Cooldown | 15s |
+
+| Effect | Burst (Talent 6%) | DoT (Talent 6%) |
+| :--- | :--- | :--- |
+| Skill DMG | 477.12% | 56% x 7 |
+| Frames | 98 | |
+| GU | ~ | 1A |
+| ICD | ~ | 3 hit / 2.5s |
+| Damage Type | Elemental Burst | |
+| Damage Element | Physical | Pyro |
+| Snapshot | Snapshot (?) | |
+| Energy Cost | 60 | |
+| Duration | ~ | 2s |
+| Cooldown | 15s | |
+
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -232,11 +258,6 @@ Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally,
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xinyan)
-* [**Xinyan Mains Discord**](https://discord.gg/XQkAKTXbNQ)
 
 **Evidence Vault:**
 
