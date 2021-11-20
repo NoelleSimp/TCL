@@ -123,7 +123,7 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | GU | 1U | 1U |
 | Absorption GU | ~ | 1A (?) |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
-| Snapshot | Snapshot (?) | Snapshot (?) |
+| Snapshot | Snapshot | Snapshot |
 | Damage Element | Anemo | Anemo |
 | Absorption Element | ~ | Cryo/Pyro/Hydro/Electro |
 | Damage Type | Elemental Skill | Elemental Skill |
@@ -147,7 +147,7 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | GU | 1U |
 | Absorption GU | 1A (?) |
 | ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot (?) |
+| Snapshot | Snapshot |
 | Damage Element | Anemo |
 | Absorption Element | Cryo/Pyro/Hydro/Electro |
 | Damage Type | Elemental Burst |
