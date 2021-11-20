@@ -104,7 +104,7 @@ Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflict
 | Damage Type | Elemental Burst |
 | Damage Element | Physical |
 | DoT Element | Pyro |
-| Snapshot | Snapshot (?) |
+| Snapshot | Snapshot |
 | Energy Cost | 60 |
 | Duration | 2s |
 | Cooldown | 15s |
