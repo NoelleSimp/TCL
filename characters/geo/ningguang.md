@@ -4,54 +4,61 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 # Ningguang
 
+## Resources
+[]()
+
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Ningguang
 
 ![](../../.gitbook/assets/character_ningguang_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Geo DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 6448 | 140 | 378 | 12 |
-| 60+ | 6884 | 149 | 403 | 12 |
-| 70 | 7561 | 164 | 443 | 12 |
-| 70+ | 7996 | 174 | 468 | 18 |
-| 80 | 8674 | 188 | 508 | 18 |
-| 80+ | 9110 | 198 | 534 | 24 |
-| 90 | 9787 | 212 | 573 | 24 |
+| 60 | 6448 | 140 | 378 | 12% |
+| 60+ | 6884 | 149 | 403 | 12% |
+| 70 | 7561 | 164 | 443 | 12% |
+| 70+ | 7996 | 174 | 468 | 18% |
+| 80 | 8674 | 188 | 508 | 18% |
+| 80+ | 9110 | 198 | 534 | 24% |
+| 90 | 9787 | 212 | 573 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}
 **Normal Attacks**  
 Shoots gems that deal Geo DMG. Upon hit, grants Ningguang 1 **Star Jade**.
 
-| String | Talent 6% | GU | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack | 39.2% | 1U | 25 | 94.08/s |
+| Normal Attack | 39.2% | 25 | 94.08/s | 1U |
 
+* Normal Attacks, Charged Attack, and Star Jades apply 1U Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 
 **Charged Attack**  
 Consumes 50 stamina to fire off a giant gem that deals Geo DMG. If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 243.71% | 50 | 292.4%/s |
-| DMG per Star Jade | 69.44% | ~ | 83.3% |
+| String | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 243.71% | 50 | 292.4%/s | 1U |
+| DMG per Star Jade | 69.44% | ~ | 83.3% | 1U |
 
+* Normal Attacks, Charged Attack, and Star Jades apply 1U Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang has two different animations when doing her Charged Attack. Her Charged Attack initiated with her right hand has higher frames. 
   * This can be mitigated by holding a direction key while using Normal Attacks, releasing it when you Charged Attack, and inputting it again after casting the Charged Attack.
 * Additional resources for her animation cancels can be found in the [Ningguang Mains discord](https://discord.gg/ENcBMd86nD).
 
 **Plunge**
 
-| Damage Type | Talent 6% |
-| :--- | :--- |
-| Plunge Impact | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Damage Type | Talent 6% | GU |
+| :--- | :--- | :--- |
+| Plunge Impact | 82.6% | ~ |
+| Low Plunge DMG | 165.17% | 1U |
+| High Plunge DMG | 206.3% | 1U |
+* Low/High Plunge applies 1U Geo and has no ICD.
+
 {% endtab %}
 
 {% tab title="Jade Screen" %}
@@ -89,7 +96,7 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -131,7 +138,7 @@ When **Jade Screen** is shattered, its CD will reset. This effect can occur once
 {% endtab %}
 
 {% tab title="C3" %}
-#### **Majesty be the Array of Stars**
+#### Majesty be the Array of Stars
 
 Increases the level of **Starshatter** by 3.
 {% endtab %}
@@ -149,7 +156,7 @@ Increases the Level of **Jade Screen** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-#### **Grandeur be the Seven Stars**
+#### Grandeur be the Seven Stars
 
 When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 {% endtab %}
@@ -205,7 +212,7 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
+## External Links
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Ningguang)
 * [Ningguang Mains Discord](https://discord.gg/ENcBMd86nD)
