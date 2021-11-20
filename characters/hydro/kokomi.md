@@ -62,7 +62,7 @@ Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, da
 | Low Plunge DMG | 165.17% | 1A |
 | High Plunge DMG | 206.3% | 1A |
 
-* Kokomi's Low/High Plunge Attacks apply hydro and have no ICD
+* Kokomi's Low/High Plunge Attacks apply hydro and have no ICD.
 
 {% endtab %}
 {% tab title="Kurage's Oath" %}
