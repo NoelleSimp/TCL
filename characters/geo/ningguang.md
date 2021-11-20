@@ -33,9 +33,9 @@ Shoots gems that deal Geo DMG. Upon hit, grants Ningguang 1 **Star Jade**.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack | 39.2% | 25 | 94.08%/s | 1U |
+| Normal Attack | 39.2% x 2 | 25 | 188.16%/s | 1U |
 
-* Normal Attacks, Charged Attack, and Star Jades apply 1U Geo with a shared 3 hit / 2.5s ICD.
+* Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 
 **Charged Attack**  
@@ -44,16 +44,16 @@ Consumes 50 stamina to fire off a giant gem that deals Geo DMG. If Ningguang has
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 243.71% | 50 | 292.4%/s | 1U |
-| DMG per Star Jade | 69.44% | ~ | 83.3% | 1U |
+| DMG per Star Jade | 69.44% | 50 | 83.3%/s | 1U |
 
-* Normal Attacks, Charged Attack, and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
+* Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang has two different animations when doing her Charged Attack. Her Charged Attack initiated with her right hand has higher frames. 
   * This can be mitigated by holding a direction key while using Normal Attacks, releasing it when you Charged Attack, and inputting it again after casting the Charged Attack.
 * Additional resources for her animation cancels can be found in the [Ningguang Mains discord](https://discord.gg/ENcBMd86nD).
 
 **Plunge**
 
-| Damage Type | Talent 6% | GU |
+| Type | Talent 6% | GU |
 | :--- | :--- | :--- |
 | Plunge Impact | 82.6% | ~ |
 | Low Plunge DMG | 165.17% | 1U |
@@ -73,20 +73,20 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 | Attribute | Skill (Talent 6%) |
 | :--- | :--- |
 | Skill DMG | 322.56% |
-| Motion Value | 586.8%/s |
 | Particles | 3~4 \(3:2\) |
 | Frames | 34 |
 | GU | 1U |
-| ICD | ? |
+| ICD | None |
 | Snapshot | Snapshot |
-| Damage Type | Elemental Skill |
 | Damage Element | Geo |
+| Damage Type | Elemental Skill |
 | Cooldown | 12s |
+
+* **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
 
 | Attribute | Contruct (Talent 6%) |
 | :--- | :--- |
 | Health | 66% Max HP |
-| Limit | 1 |
 | Duration | 30s |
 
 {% endtab %}
@@ -98,12 +98,13 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | :--- | :--- |
 | DMG per Gem | 121.74% |
 | Frames | 101 |
-| GU | 2U |
-| ICD | ? |
+| GU | 1U |
+| ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
-| Damage Type | Elemental Burst |
 | Damage Element | Geo |
+| Damage Type | Elemental Burst |
 | Energy Cost | 40 |
+| Cooldown | 12s |
 
 * When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.
 
@@ -184,7 +185,7 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack DMG | 39.20% | 42% | 44.80% | 47.60% | 50.40% | 53.31% |
+| Normal Attack DMG | 39.20% x 2 | 42% x 2 | 44.80% x 2 | 47.60% x 2 | 50.40% x 2 | 53.31% x 2 |
 
 ### Charged Attack
 
@@ -217,8 +218,6 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | DMG Per Gem | 121.74% | 130.44% | 139.14% | 147.83% | 156.53% | 165.22% | 173.92% | 184.79% |
-| CD | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
-| Energy Cost | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 |
 
 **Energy Cost**: 40
 
