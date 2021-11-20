@@ -78,7 +78,7 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 | Frames | 66 (51 with Dash Cancel) |
 | GU | 1A |
 | ICD (hits/timer) | None |
-| Snapshot | Snapshot\* |
+| Snapshot | Snapshot |
 | Damage Element | Hydro |
 | Damage Type | Elemental Skill |
 | HP Regen | 6.16% Max HP + 671 |
@@ -112,7 +112,7 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 | Frames | 75 |
 | GU | 2B |
 | ICD | None |
-| Snapshot | Snapshot(?) |
+| Snapshot | Snapshot |
 | Damage Element | Hydro |
 | Damage Type | Elemental Skill |
 | Energy Cost | 70 |
