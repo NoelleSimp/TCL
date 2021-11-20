@@ -70,14 +70,18 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 
 * **Signed Edict** shatters frozen targets.
 
-| Effect | Talent 6 DMG% |
+| Effect | Skill |
 | :--- | :--- |
-| Skill DMG | 237.44% |
-| Cooldown | 9s |
+| Skill DMG (T6%) | 237.44% |
 | Particles | 3 \(-\) |
-| Gauge Units | 1A |
 | Frames | 46 |
-| Motion Value | 309.70%/s |
+| GU | 1A |
+| ICD | None |
+| Snapshot? | Snapshot |
+| DMG Element | Pyro |
+| DMG Type | Skill |
+| Cooldown | 9s |
+
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -89,17 +93,21 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 * Grants Yanfei a Scarlet Seal at fixed intervals
 * Increases the DMG dealt by her Charged Attacks
 
-| Effect | Talent 6 DMG% |
+| Effect | Burst (T6%) |
 | :--- | :--- |
 | Skill DMG | 255.36% |
 | Charged Attack DMG Bonus | 44% |
 | Scarlet Seal Grant Interval | 1s |
+| Frames | 65 |
+| GU | 2B |
+| ICD | 3 hit / 2.5s |
+| Snapshot? | Snapshots |
+| DMG Element | Pyro |
+| DMG Type | Burst |
+| Energy Cost | 80 |
 | Duration | 15s |
 | Cooldown | 20s |
-| Energy Cost | 80 |
-| Gauge Units | 2B |
-| Frames | 65 |
-| Motion Value | 235.72%/s |
+
 {% endtab %}
 {% endtabs %}
 
