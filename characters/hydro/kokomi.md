@@ -39,7 +39,7 @@ Performs up to 3 consecutive attacks that take the form of swimming fish, dealin
 | With Recovery | ~ | 122 | 154.38%/s | ~ |
 
 * Kokomi's Normal Attacks...
-  * Apply hydro and follow 3 hit/2.5s ICD.
+  * Apply hydro and share a 3 hit / 2.5s ICD.
   * Have a range of ~6 tiles before it stops auto-targetting.
   * Hit in a small AoE.
 * Kokomi's 2nd Normal Attack sometimes has a delay before it comes out. This delay is inconsistent, but can usually be mitigated by performing Dash or Jump cancel.
@@ -56,14 +56,13 @@ Consumes 50 Stamina to deal AoE Hydro DMG after a short casting time.
 **Plunge Attack**  
 Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| Type | Talent 6% |
-| :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
-| GU | 1A |
+| Type | Talent 6% | GU |
+| :--- | :--- | :--- |
+| Plunge DMG | 82.6% | ~ |
+| Low Plunge DMG | 165.17% | 1A |
+| High Plunge DMG | 206.3% | 1A |
 
-* Kokomi's Plunge Attack applies hydro and has no ICD
+* Kokomi's Low/High Plunge Attacks apply hydro and have no ICD
 
 {% endtab %}
 {% tab title="Kurage's Oath" %}
