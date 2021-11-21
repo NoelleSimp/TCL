@@ -6,6 +6,12 @@ description: >-
 
 # Xiao
 
+## **External Links**
+
+* [Xiao Mains Discord](https://discord.gg/Xiao)
+* [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
+* [Xiao Mastersheet V2.0](https://library.keqingmains.com/evidence/characters/anemo/xiao#xiao-mastersheet-v-2-0) by Pichu#0002 & shdwbld#8103
+
 ## ![](../../.gitbook/assets/element_anemo.png)Xiao
 
 ![](../../.gitbook/assets/character_xiao_wish.webp)
@@ -219,13 +225,6 @@ While under the effect of **Bane of All Evil**, hitting at least 2 opponents wit
 
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiao)
-* [Xiao Mains Discord](https://discord.gg/Xiao)
-* [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
-* [Xiao Mastersheet V2.0](https://library.keqingmains.com/evidence/characters/anemo/xiao#xiao-mastersheet-v-2-0) by Pichu#0002 & shdwbld#8103
 
 **Evidence Vault:**
 
