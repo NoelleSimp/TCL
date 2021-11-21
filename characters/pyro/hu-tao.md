@@ -6,6 +6,12 @@ description: >-
 
 # Hu Tao
 
+## **Resources**
+
+* [Hu Tao Mains Discord](https://github.com/Artesians/TCL/tree/e89e061a34e9f5a67f035c9a7c8e5672b87e227d/characters/pyro/discord.gg/hutaoscorner/README.md)
+* [Hu Tao Guide](https://keqingmains.com/hu-tao/)
+* [Hu Tao Quick Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
+
 ## ![](../../.gitbook/assets/element_pyro.png) Hu Tao
 
 ![](../../.gitbook/assets/character_hu_tao_wish.png)
@@ -276,12 +282,6 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 [N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Hu_Tao)
-* [Hu Tao Mains Discord](https://github.com/Artesians/TCL/tree/e89e061a34e9f5a67f035c9a7c8e5672b87e227d/characters/pyro/discord.gg/hutaoscorner/README.md)
-* [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 
 ### Evidence Vault:
 
