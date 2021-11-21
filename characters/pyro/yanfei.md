@@ -6,6 +6,10 @@ description: >-
 
 # Yanfei
 
+## External Links
+
+* [Yanfei Full Guide](https://keqingmains.com/yanfei/)
+
 ## ![](../../.gitbook/assets/element_pyro.png) Yan Fei
 
 ![](../../.gitbook/assets/character_yanfei_wish.png)
@@ -243,10 +247,6 @@ Increases the maximum number of Scarlet Seals by 1.
 **CD:** 20s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Yanfei)
 
 **Evidence Vault:**
 
