@@ -77,6 +77,7 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 | Cooldown | 15s |
 | Particles | 4 \(-\) |
 | GU | 2B |
+| ICD | None |
 | Frames | 35 |
 
 * The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
