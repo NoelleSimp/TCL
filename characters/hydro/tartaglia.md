@@ -6,6 +6,13 @@ description: >-
 
 # Tartaglia
 
+## **Resources**
+
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Tartaglia)
+* [Childe Mains Discord](https://discord.gg/Childe)
+* [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
+* [Childe Guide](https://keqingmains.com/tartaglia/)
+
 ## ![](../../.gitbook/assets/element_hydro.png) Tartaglia
 
 ![](../../.gitbook/assets/character_tartaglia_wish.png)
@@ -368,12 +375,6 @@ When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: R
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Tartaglia)
-* [Childe Mains Discord](https://discord.gg/Childe)
-* [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
 
 **Evidence Vault:**
 
