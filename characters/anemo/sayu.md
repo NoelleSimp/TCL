@@ -75,6 +75,7 @@ Rolls about continuously in the **Fuufuu Windwheel** state, increasing Sayu's re
 | Particles | 2 | 2 + 1~4 |
 | Frames | 35 | 35~675 |
 | GU | 1U | |
+| GU Absorption | ~ | 1A |
 | ICD | 3 hit / 2.5s | |
 | Snapshot | Snapshot |
 | Damage Element | Anemo | |
