@@ -6,6 +6,12 @@ description: >-
 
 # Sucrose
 
+## Resources
+
+* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
+* [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
+* [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
+
 ## ![](../../.gitbook/assets/element_anemo.png)Sucrose
 
 ![](../../.gitbook/assets/character_sucrose_wish.png)
@@ -221,13 +227,6 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 | Additional Elemental DMG | 61.6 | 66 | 70.4 | 74.8 | 79.2 | 83.6 | 88 | 93.5 |
 {% endtab %}
 {% endtabs %}
-
-## External Links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose)
-* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
-* [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
-* [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
 
 **Evidence Vault**
 
