@@ -44,12 +44,11 @@ Klee performs up to 3 explosive attacks dealing Pyro DMG.
 **Charged Attack**  
 Consumes 50 stamina to deal AoE Pyro DMG.
 
-| String | Talent 6% | Frames | Motion Value | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| CA | 220.30% | 50 | 264.36%/s | 1A |
+| String | Talent 6% | Frames | Motion Value | GU | ICD |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 220.30% | 50 | 264.36%/s | 1A | 0.5s |
 
 * Enemies struck by Klee's charged attack will be staggered or launched.
-* 0.5s ICD
 
 **Plunge**
 
