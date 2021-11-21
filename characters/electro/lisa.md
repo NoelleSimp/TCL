@@ -106,7 +106,7 @@ Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching 
 
 The **Lightning Rose** will continuously emit lightning to knock back opponents and deal Electro DMG throughout the duration.
 
-| Attribute | Burst |
+| Attribute | Talent 6% |
 | :--- | :--- |
 | Discharge DMG | 51.18% |
 | Frames | 30 |
