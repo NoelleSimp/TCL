@@ -5,7 +5,7 @@ suppress his abundance of yang energy.
 
 # Chongyun
 
-## **External Links**
+## Resources
 
 * [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
 
