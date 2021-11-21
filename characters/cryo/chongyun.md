@@ -39,6 +39,8 @@ Perform up to 4 consecutive strikes.
 | 3-Hit | 116.75% | 124 | 150.1%/s |
 | 4-Hit | 147.13% | 204 | 134.5%/s |
 
+* ICD is 3 hits / 2.5s, shared with Charged Attacks.
+
 **Charged Attack**  
 Drains Stamina over time to perform a continuous spinning attack for up to 5s.  
 Perform a powerful slash at the end of the sequence.
@@ -50,6 +52,7 @@ Perform a powerful slash at the end of the sequence.
 | Stamina Cost | 40/s | ~ | ~ |
 
 * All frame counts are done against Ruin Guards.
+* ICD is 3 hits / 2.5s, shared with Normal Attacks.
 
 **Plunge Attack**  
 Plunge from midair to strike the ground below dealing AoE DMG.
@@ -74,6 +77,7 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 | Cooldown | 15s |
 | Particles | 4 \(-\) |
 | Cast GU | 2B |
+| ICD | None |
 | Infused Attack GU | 1A |
 | Frames | 57 |
 | MV/s | 253.5%/s |
@@ -90,6 +94,7 @@ Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, de
 | CD | 12s |
 | Energy Cost | 40 |
 | GU | 1A per hit |
+| ICD | None |
 | Frames | 135 |
 | MV/s | 265.8%/s |
 {% endtab %}
@@ -119,6 +124,7 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 * Decreases Cryo Res of opponents hit by 10%  
 * The **Spirit Blade** is considered as elemental skill damage.  
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
+* No ICD on elemental application
 {% endtab %}
 {% endtabs %}
 
