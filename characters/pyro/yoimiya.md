@@ -5,6 +5,10 @@ description: >-
 
 # Yoimiya
 
+## **External Links**
+* [6 Minute Yoimiya Quick Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
+* [Yoimiya Full Guide](https://keqingmains.com/yanfei/)
+
 ## ![](../../.gitbook/assets/element_pyro.png) Yoimiya
 
 ![](../../.gitbook/assets/character_yoimiya_wish.png)
@@ -238,10 +242,6 @@ During Niwabi Fire-Dance, Yoimiya's Normal Attacks have a 50% chance of firing a
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Yoimiya)
 
 **Evidence Vault:**
 
