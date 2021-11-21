@@ -6,6 +6,10 @@ description: >-
 
 # Xiangling
 
+## External links
+
+* [Xiangling Guide](https://keqingmains.com/xiangling/)
+
 ## ![](../../.gitbook/assets/element_pyro.png) Xiangling
 
 ![](../../.gitbook/assets/character_xiangling_wish.png)
@@ -215,9 +219,6 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro** DMG B
 {% endtab %}
 {% endtabs %}
 
-## External links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiangling)
 
 {% page-ref page="../../evidence/characters/pyro/xiangling.md" %}
 
