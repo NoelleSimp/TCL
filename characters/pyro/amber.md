@@ -43,10 +43,10 @@ Perform up to 5 consecutive shots with a bow.
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Pyro DMG.
 
-| Type | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | - |
-| Fully Charged | 173.6% | 94 | 110.80% | 2B |
+| Type | Talent 6% | Frames | MV/s | GU | ICD |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75% |  |  | - | - |
+| Fully Charged | 173.6% | 94 | 110.80% | 2B | 1s |
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
@@ -97,6 +97,7 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Wave DMG | 39.31% |
 | Total DMG | 707.62% |
 | GU | 1A |
+| ICD | 3 hits / 2.5s |
 | Duration | 2s |
 | CD | 12s |
 | Energy Cost | 40 |
@@ -142,6 +143,7 @@ Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's D
 
 * The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
 * C1 damage instance is considered CA damage.
+* Shared ICD with Charged Attack.
 {% endtab %}
 
 {% tab title="C2" %}
