@@ -5,7 +5,7 @@ room. Also known as Fleeing Sunlight.
 
 # Klee
 
-## **External Links**
+## Resources
 
 * [**Klee Mains Discord**](https://discord.gg/NwYDDrfKZU)
 
