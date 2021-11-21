@@ -121,7 +121,7 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Particles | 2 | 2 / 3~4 (2:1) |
 | Frames | 27 | 27~61 |
 | GU | 1U | 1U |
-| Absorption GU | ~ | 1A (?) |
+| Absorption GU | ~ | 1A |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot |
 | Damage Element | Anemo | Anemo |
@@ -145,7 +145,7 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | Absorption DMG | 34.7% |
 | Frames | 41 |
 | GU | 1U |
-| Absorption GU | 1A (?) |
+| Absorption GU | 2B |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
 | Damage Element | Anemo |
