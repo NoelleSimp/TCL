@@ -98,7 +98,7 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Wave DMG | 39.31% |
 | Total DMG | 707.62% |
 | GU | 1A |
-| ICD | 3 hits / 2.5s |
+| ICD | 3 hits / 1s |
 | Duration | 2s |
 | CD | 12s |
 | Energy Cost | 40 |
