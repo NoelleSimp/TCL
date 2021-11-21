@@ -4,6 +4,11 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 # Albedo
 
+## **Resources**
+
+* [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
+* [Albedo Written Guide](https://keqingmains.com/albedo/)
+
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Albedo
 
 ![](../../.gitbook/assets/character_albedo_wish.png)
@@ -233,12 +238,6 @@ If active party members within the AoE are protected by a shield created by Crys
 **Cooldown**: 12s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Albedo)
-* [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
-* [Albedo Written Guide](https://keqingmains.com/albedo/)
 
 **Evidence Vault:**
 
