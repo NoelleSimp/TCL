@@ -1,10 +1,13 @@
 ---
-description: >-
-  A young exorcist from a family of exorcists. He does everything he can to
-  suppress his abundance of yang energy.
+description: A young exorcist from a family of exorcists. He does everything he can to 
+suppress his abundance of yang energy.
 ---
 
 # Chongyun
+
+## **External Links**
+
+* [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
 
 ## ![](../../.gitbook/assets/element_cryo.png) Chongyun
 
@@ -62,7 +65,6 @@ Plunge from midair to strike the ground below dealing AoE DMG.
 Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short delay, a **Chonghua Frost Field** will form:
 
 * Within this field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
-* The field works as a cylinder with a large height.  
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -75,6 +77,8 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 | Infused Attack GU | 1A |
 | Frames | 57 |
 | MV/s | 253.5%/s |
+
+* The field works as a cylinder with a large height.  
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
@@ -126,8 +130,11 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 
 The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
 
-* Each **Ice Blade** deals 50% of Chongyun’s ATK as Cryo DMG to all opponents in its path.
-* Each **Ice Blade** has a GU of 1A.
+| Effect | Talent% |
+| :--- | :--- |
+| DMG | 50% \* 3 |
+| GU | 1A |
+
 * C1 damage instance has no ability type scaling tags.
 {% endtab %}
 
@@ -225,11 +232,6 @@ Increases the level of **Chonghua’s Layered Frost** by 3.
 **Cooldown**: 12s
 {% endtab %}
 {% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Chongyun)
-* [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
 
 **Evidence Vault:**
 
