@@ -97,7 +97,6 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Damage Element | Electro |
 | Damage Type | Elemental Skill |
 
-* **Oz** normal attacks a total of 10 times over the duration.
 * **Oz** is able to target Baron Bunny after Fischl’s Ascension 1 passive, **Stellar Predator** is triggered, despite having no enemies nearby. The passive may or may not deliver a **Thundering Retribution** onto the Baron Bunny.
 * When **Oz** is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
 * **Oz's** normal attacks shares ICD with her **C6**.
@@ -250,7 +249,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 * **C6** joint attacks share ICD with **Oz's** Normal Attacks.
 * The joint attack only procs once on multi-hit attacks.
-* **Oz** normal attacks a total of 11 times during the **C6** duration.
+* **Oz** normal attacks a total of 12 times over the **C6** duration.
 
 {% endtab %}
 {% endtabs %}
