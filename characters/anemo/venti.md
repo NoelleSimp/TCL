@@ -1,7 +1,5 @@
 ---
-description: >-
-  One of the many bards of Mondstadt, who freely wanders the city's streets and
-  alleys.
+description: One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.
 ---
 
 # Venti
@@ -36,10 +34,10 @@ Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.63% + 29.63% | 21 | 169.3%/s |
+| 1-Hit DMG | 29.63% x 2 | 21 | 169.3%/s |
 | 2-Hit DMG | 64.50% | 44 | 168.8%/s |
 | 3-Hit DMG | 76.13% | 90 | 133.3%/s |
-| 4-Hit DMG | 37.87% + 37.87% | 123 | 134.5%/s |
+| 4-Hit DMG | 37.87% x 2 | 123 | 134.5%/s |
 | 5-Hit DMG | 73.63% | 140 | 149.7%/s |
 | 6-Hit DMG | 103.13% | 191 | 142.1%/s |
 
@@ -116,6 +114,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 * Venti cannot lift enemies that are more than 20 levels above his level.
 * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
     * The additional elemental DMG will always deal 16 ticks of damage in the original burst area, no matter the time of absorption.
+    * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
 
