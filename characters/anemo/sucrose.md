@@ -1,7 +1,5 @@
 ---
-description: >-
-  An alchemist filled with curiosity about all things. She researches
-  bio-alchemy.
+description: An alchemist filled with curiosity about all things. She researches bio-alchemy.
 ---
 
 # Sucrose
@@ -65,7 +63,7 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 {% tab title="Astable Anemohypostasis Creation-6308" %}
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
-| Attribute | Skill (T6%) |
+| Attribute | Skill (Talent 6%) |
 | :--- | :--- |
 | Skill DMG | 295.68% |
 | Particles | 4 \(-\) |
@@ -83,7 +81,7 @@ Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While
 
 If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
 
-| Attribute | Burst (T6%) |
+| Attribute | Burst (Talent 6%) |
 | :--- | :--- |
 | DoT | 207.2% |
 | Additional Elemental DMG | 61.6% |
