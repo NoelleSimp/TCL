@@ -84,7 +84,7 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 
 * **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
 
-| Attribute | Contruct (Talent 6%) |
+| Attribute | Construct (Talent 6%) |
 | :--- | :--- |
 | Health | 66% Max HP |
 | Duration | 30s |
