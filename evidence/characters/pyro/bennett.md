@@ -197,3 +197,21 @@ Both Amber and Lisa stat details display 15% Pyro DMG Bonus after entering the f
 
 **Significance:**  
 Bennett's 6th Constellation would appear to be a mistranslation, or otherwise not work as stated, and increases not only Sword, Claymore, and Polearm-wielding characters' Pyro DMG Bonus by 15%, but Catalyst and Bow-wielding characters' as well.
+
+## Inspiration Field Tick Rate (REENS ADD THIS)
+
+**By:** Monochrom9\#8058  
+**Added:** 2/12/2021  
+
+**Finding:**  
+Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the burst such that it ticks on EXACTLY XX.0 for every second of the field duration.  
+
+**Evidence:**  
+[Burst ticks](https://youtu.be/Psxr86Qov4M)  
+In this example pause the video at 14.0 and 13.0 CD. You’ll see that on these EXACT seconds, I got healed, and I also got the buffs indicated by arrows simultaneously with the first tick. Indicating the pattern.  
+
+[Dodging Burst ticks](https://youtu.be/xrhWmvv4wbY)  
+In this example I avoided standing in the circle for all XX.0 values. I received no pyro aura or buffs/arrows whatsoever. ALL of Bennett Q benefits tick at the same time, and if you are never on the circle during the tick, you will never receive the benefits.  
+
+**Significance:**  
+If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Bennett, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the burst, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks.  Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.  
