@@ -1,6 +1,5 @@
 ---
-description: >-
-  Owner of Naganohara Fireworks. Known as "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.
+description: Owner of Naganohara Fireworks. Known as "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.
 ---
 
 # Yoimiya
@@ -75,15 +74,15 @@ Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.
 **Niwabi Enshou**  
 During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arrows**, and their DMG will be increased and converted to Pyro DMG. During this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2. This effect will deactivate when Yoimiya leaves the field.
 
-| Attribute | Skill | 
-| --- | --- |
-| Blazing Arrow DMG (T6) | 149.94% Normal Attack DMG |
+| Attribute | Skill (Talent 6%) | 
+| :--- | :--- |
+| Blazing Arrow DMG | 149.94% Normal Attack DMG |
 | Particles | 1 (-) per proc |
 | Cast Frames | 23 |
 | GU | 1A |
-| Blazing Arrow ICD | 3 hit / 2.5s |
-| Blazing Arrow DMG Element | Pyro |
-| Blazing Arrow DMG Type | Normal Attack |
+| ICD | 3 hit / 2.5s |
+| Damage Element | Pyro |
+| Damage Type | Normal Attack |
 | Duration | 10s |
 | CD | 18s |
 
@@ -104,15 +103,15 @@ All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by a
 | Attribute | Burst | Aurous Blaze Explosion |
 | :--- | :--- | ---- |
 | DMG (T6%) | 178.08% | 170.8% |
-| Cast Frames | 115 | -- |
+| Cast Frames | 115 | ~ |
 | GU | 2B | 1A |
 | ICD | None | 3 hit / 2.5s |
 | Snapshot? | Dynamic | Dynamic |
 | DMG Element | Pyro | Pyro |
 | DMG Type | Burst | Burst |
-| Energy Cost | 60 | -- |
-| CD | 15s | -- |
-| Duration | 10s | -- |
+| Energy Cost | 60 | ~ |
+| CD | 15s | ~ |
+| Duration | 10s | ~ |
 
 {% endtab %}
 {% endtabs %}
