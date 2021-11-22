@@ -43,10 +43,10 @@ Perform up to 5 consecutive shots with a bow.
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Pyro DMG.
 
-| Type | Talent 6% | Frames | MV/s | GU | ICD |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | - | - |
-| Fully Charged | 173.6% | 94 | 110.80% | 2B | 1s |
+| Type | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75% |  |  | - |
+| Fully Charged | 173.6% | 94 | 110.80% | 2B |
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
@@ -69,7 +69,7 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 
 * Will let you aim and choose where to throw **Baron Bunny**.
 
-| Effect | Talent 6% |
+| Effect | Skill (Talent 6%) |
 | :--- | :--- |
 | Explosion DMG | 172.48% |
 | Inherited HP | 57.9% |
@@ -93,7 +93,7 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 {% tab title="Fiery Rain" %}
 Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 
-| Effect | Talent 6% |
+| Effect | Burst (Talent 6%) |
 | :--- | :--- |
 | Wave DMG | 39.31% |
 | Total DMG | 707.62% |
