@@ -106,8 +106,6 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 | 1 Stack | 394.24% | 3 |
 | 2 Stacks / Perfect Parry  | 618.24% | 4 |
 
-* **Perfect parrying** or taking any shield damage does NOT reduce [Serpent Spine](../../equipment/weapons/claymores.md#serpent-spine)'s stacks unless your shield breaks from an attack.
-
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
