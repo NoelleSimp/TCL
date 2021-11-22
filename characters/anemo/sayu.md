@@ -74,13 +74,13 @@ Rolls about continuously in the **Fuufuu Windwheel** state, increasing Sayu's re
 | Fuufuu Whirlwind Kick Absorption DMG | ~ | 106.62% |
 | Particles | 2 | 2 + 1~4 |
 | Frames | 35 | 35~675 |
-| GU | 1U | |
+| GU | 1U | ~ |
 | GU Absorption | ~ | 1A |
-| ICD | 3 hit / 2.5s | |
+| ICD | 3 hit / 2.5s | ~ |
 | Snapshot | Snapshot |
-| Damage Element | Anemo | |
+| Damage Element | Anemo | ~ |
 | Damage Absorption | ~ | Pyro/Hydro/Electro/Cryo |
-| Damage Type | Elemental Skill | |
+| Damage Type | Elemental Skill | ~ |
 | Max Duration | ~ | 10s |
 | Cooldown | 6s | 6s~11s |
 
