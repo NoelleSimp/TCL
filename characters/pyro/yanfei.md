@@ -1,7 +1,5 @@
 ---
-description: >-
-  A well-known legal adviser active in Liyue Harbor. A briliant young lady in
-  whose veins runs the blood of an illuminated beast.
+description: A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.
 ---
 
 # Yanfei
@@ -74,16 +72,16 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 
 * **Signed Edict** shatters frozen targets.
 
-| Effect | Skill |
+| Effect | Skill (Talent 6%) |
 | :--- | :--- |
-| Skill DMG (T6%) | 237.44% |
+| Skill DMG | 237.44% |
 | Particles | 3 \(-\) |
 | Frames | 46 |
 | GU | 1A |
 | ICD | None |
-| Snapshot? | Snapshot |
-| DMG Element | Pyro |
-| DMG Type | Skill |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Skill |
 | Cooldown | 9s |
 
 {% endtab %}
@@ -97,7 +95,7 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 * Grants Yanfei a Scarlet Seal at fixed intervals
 * Increases the DMG dealt by her Charged Attacks
 
-| Effect | Burst (T6%) |
+| Effect | Burst (Talent 6%) |
 | :--- | :--- |
 | Skill DMG | 255.36% |
 | Charged Attack DMG Bonus | 44% |
@@ -105,9 +103,9 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 | Frames | 65 |
 | GU | 2B |
 | ICD | 3 hit / 2.5s |
-| Snapshot? | Snapshots |
-| DMG Element | Pyro |
-| DMG Type | Burst |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Burst |
 | Energy Cost | 80 |
 | Duration | 15s |
 | Cooldown | 20s |
