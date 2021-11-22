@@ -183,7 +183,7 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 
 | Effect | C1 |
 | :--- | :--- |
-| Skill DMG | 22% |
+| Joint Attack | 22% |
 | Damage Elemental | Physical |
 | Damage Type | Normal Attack |
 
@@ -234,11 +234,11 @@ Increases the Level of **Midnight Phantasmagoria** by 3.
 {% tab title="C6" %}
 ### Evernight Raven
 
-Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs **joint attack**s with your active character, dealing 30% of Fischl ATK as Electro DMG.
+Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs joint attacks with your active character, dealing 30% of Fischl ATK as Electro DMG.
 
 | Attribute | C6 |
 | :--- | :--- |
-| Skill DMG | 30% |
+| Joint Attack | 30% |
 | Particles | 0 |
 | GU | 1A |
 | ICD | 4 hits / 5s |
@@ -248,7 +248,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 | Damage Element | Electro |
 | Damage Type | Elemental Skill |
 
-* **C6** shares ICD with **Oz's** Normal Attacks.
+* **C6** joint attacks share ICD with **Oz's** Normal Attacks.
 * The joint attack only procs once on multi-hit attacks.
 
 {% endtab %}
