@@ -83,14 +83,14 @@ When a character is located on the **Solar Isotoma**, the **Solar Isotoma** will
 | :--- | :--- | :--- |
 | Talent 6% | 182.56% | 184.04% DEF |
 | Particles | 0 | 0~1 \(1:2\) |
-| Frames | 32 | 0 |
+| Frames | 32 | ~ |
 | GU | 1U | 1U |
 | ICD | None | 3 hit / 2.5s |
-| Snapshot? | Snapshot | Snapshot |
-| DMG Element | Geo | Geo |
-| DMG Type | Skill | Skill |
-| Duration | 30s | - |
-| Cooldown | 4s | - |
+| Snapshot | Snapshot | Snapshot |
+| Damage Element | Geo | Geo |
+| Damage Type | Skill | Skill |
+| Duration | 30s | ~ |
+| Cooldown | 4s | ~ |
 
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
 * The DMG dealt by **Transient Blossoms** is snapshotted, so any buffs gained/lost after casting **Abiogenesis: Solar Isotoma** will not affect its damage.
@@ -103,14 +103,14 @@ Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of
 | Attribute | Burst Cast | Fatal Blossom |
 | :--- | :--- | :--- |
 | Talent 6% | 514.08% | 100.8% per Blossom
-| Frames | 96 | - |
+| Frames | 96 | ~ |
 | GU | 1U | 1U |
 | ICD | None | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot |
-| DMG Element | Geo | Geo |
-| DMG Type | Burst | Burst |
-| Energy Cost | 40 | - |
-| Cooldown | 12s | - |
+| Damage Element | Geo | Geo |
+| Damage Type | Burst | Burst |
+| Energy Cost | 40 | ~ |
+| Cooldown | 12s | ~ |
 
 * **Tectonic Tide** DMG and **Fatal Blossom** DMG will not generate **Transient Blossoms**.
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 
