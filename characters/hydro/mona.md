@@ -1,6 +1,5 @@
 ---
-description: A mysterious young astrologer who proclaims herself to be “Astrologist Mona 
-Megistus,” and who possesses abilities to match the title. Erudite, but prideful.
+description: A mysterious young astrologer who proclaims herself to be “Astrologist Mona Megistus,” and who possesses abilities to match the title. Erudite, but prideful.
 ---
 
 # Mona
@@ -139,12 +138,12 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | Bubble DMG | 619.39% |
 | Omen DMG Bonus | 52% \(scaling\) |
 | Omen Duration | 4.5s |
+| Frames | 125 |
 | GU (Cast) | 1A |
 | GU (Pop) | 2B |
 | ICD | 3 hits / 2.5s, shared between cast and pop |
 | CD | 15s |
 | Energy Cost | 60 |
-| Frames | 125 |
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
 * **Omen** DMG Bonus is additive to the damage calculation and is classified as **DamageBonus**
