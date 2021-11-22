@@ -54,11 +54,10 @@ Perform a precise Aimed Shot with increased DMG.
 | Frostflake Arrow | 179.2% | 115 | 93.49% | 1A |
 | Frostflake Bloom | 304.64% | 115 | 158.94% | 1A |
 
-* **Frostflake Bloom** will scale with Charged Attack DMG bonuses.
+* **Frostflake Bloom** is considered a Charged Attack.
 * Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
 * **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.
 * Ganyu's Charged Attacks snapshot on release, including the bloom.
-* **Frostflake Bloom** will damage enemies that are frozen even if they have a shield.
 * Ganyu cannot perform the "ARCC" aimed shot animation cancel without Constellation 6.
 
 **Plunge Attack**  
