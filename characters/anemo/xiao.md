@@ -1,7 +1,5 @@
 ---
-description: >-
-  A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer of Demons"
-  or "Vigilant Yaksha"
+description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer of Demons" or "Vigilant Yaksha"
 ---
 
 # Xiao
@@ -10,7 +8,6 @@ description: >-
 
 * [Xiao Mains Discord](https://discord.gg/Xiao)
 * [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
-* [Xiao Mastersheet V2.0](https://library.keqingmains.com/evidence/characters/anemo/xiao#xiao-mastersheet-v-2-0) by Pichu#0002 & shdwbld#8103
 
 ## ![](../../.gitbook/assets/element_anemo.png)Xiao
 
@@ -74,16 +71,16 @@ Xiao lunges forward, dealing Anemo DMG to opponents in his path.
 Can be used mid-air.  
 Starts with 2 charges.
 
-| Attribute | Skill |
+| Attribute | Skill (Talent 6%) |
 | :--- | :--- |
-| Skill DMG (T6%) | 353.92% | 36 |
+| Skill DMG | 353.92% | 36 |
 | Particles | 3 |
 | Frames | 36 | 
 | GU | 2B |
 | ICD | 7 hit / 0.1s |
-| Snapshot? | Snapshot |
-| DMG Element | Anemo |
-| DMG Type | Skill |
+| Snapshot | Snapshot |
+| Damage Element | Anemo |
+| Damage Type | Skill |
 | CD | 10s |
 
 * A Double E Cast is only 60 frames long.
