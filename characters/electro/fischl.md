@@ -7,7 +7,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 ## Resources
 * [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
 * [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
-* [Fischl Support Weapon Rankings](https../../evidence/characters/electro/fischl.md#fischl-support-weapon-rankings) by itsjaeYOU#2868
+* [Fischl Support Weapon Rankings](../../evidence/characters/electro/fischl.md#fischl-support-weapon-rankings) by itsjaeYOU#2868
 * [Fischl Build Comparison](../../evidence/characters/electro/fischl.md#fischl-build-comparison) by Paraszczak#0148
 
 ## ![](../../.gitbook/assets/element_electro.png) Fischl
@@ -70,9 +70,9 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 
 * When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
 
-| Attribute | Skill Tap/Hold |
+| Attribute | Skill (Talent 6%) |
 | :--- | :--- |
-| Cast DMG (T6%)| 161.62% |
+| Cast DMG| 161.62% |
 | Particles | 0 |
 | Frames | 18 |
 | GU | 1A |
@@ -113,11 +113,11 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG (T6%) | 291.2% |
+| Frames | 20 |
+| GU | 2B |
 | Duration | ????s |
 | Cooldown | 15s |
 | Energy Cost | 60 |
-| GU | 2B |
-| Frames | 20 |
 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
 * Midnight Phantasmagoria only has invulnerability frames \(I-Frames\) on startup.
@@ -242,10 +242,10 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 | GU | 1A |
 | ICD | 4 hits / 5s |
 | Snapshot | Snapshot |
-| Duration | 10s |
 | Attack Speed | No Limit |
 | Damage Element | Electro |
 | Damage Type | Elemental Skill |
+| Duration | 10s |
 
 * **C6** joint attacks share ICD with **Oz's** Normal Attacks.
 * The joint attack only procs once on multi-hit attacks.
