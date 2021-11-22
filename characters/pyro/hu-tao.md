@@ -1,7 +1,5 @@
 ---
-description: >-
-  The 77th Director of the Wangsheng Funeral Parlor. She took over the business
-  at a rather young age.
+description: The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.
 ---
 
 # Hu Tao
@@ -32,9 +30,6 @@ description: >-
 
 {% tabs %}
 {% tab title="Secret Spear of Wangsheng" %}
-**Dash**  
-Hu Tao's dash will phase through enemies.
-
 **Normal Attacks**  
 Hu Tao performs up to 6 consecutive spear strikes.
 
@@ -60,7 +55,7 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 | N5C | 586.12% |  |  |
 | N6C | 704.31% |  |  |
 
-* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](https://library.keqingmains.com/characters/pyro/hu-tao#animation-cancels).
+* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
 
 ![](../../.gitbook/assets/hutaovapemvs.jpg)
@@ -94,7 +89,7 @@ Hu Tao consumes a set portion of her HP to knock the surrounding enemies back an
 * Increases Hu Tao's resistance to interruption.
 * **Paramita Papilio** ends when its duration is over, or Hu Tao has left the battlefield or fallen.
 
-| Attribute | Paramita Papilio (T6%) |
+| Attribute | Paramita Papilio (Talent 6%) |
 | :--- | :--- |
 | ATK Increase | 5.06% Max HP |
 | Activation Cost | 30% Current HP |
@@ -109,14 +104,14 @@ Enemies affected by **Blood Blossom** will take Pyro DMG every 4s. This DMG is c
 
 Each enemy can be affected by only one **Blood Blossom** effect at a time, and its duration may only be refreshed by Hu Tao herself.
 
-| Attribute | Blood Blossom (T6%) |
+| Attribute | Blood Blossom (Talent 6%) |
 | :--- | :--- |
 | Blood Blossom DMG | 89.6% |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |
-| Snapshot? | Dynamic |
-| DMG Element | Pyro |
-| DMG Type | Skill |
+| Snapshot | Dynamic |
+| Damage Element | Pyro |
+| Damage Type | Skill |
 | Blood Blossom Duration | 8s |
 
 * Blood Blossom tick rate is effected by hitlag. \(+1s\)
@@ -133,7 +128,7 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 * Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. 
 * If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and the HP Regeneration are increased.
 
-| Atteibute | Burst (T6%) |
+| Atteibute | Burst (Talent 6%) |
 | :--- | :--- |
 | Skill DMG | 399.52% |
 | Low HP Skill DMG | 499.4% |
@@ -142,8 +137,8 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 | Frames | 130 |
 | GU | 2B |
 | ICD | None |
-| DMG Element | Pyro |
-| DMG Type | Burst |
+| Damage Element | Pyro |
+| Damage Type | Burst |
 | Energy Cost | 60 |
 | Cooldown | 15s |
 
