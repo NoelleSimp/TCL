@@ -1,7 +1,5 @@
 ---
-description: >-
-  A renowned chef from Liyue. She's extremely passionate about cooking and
-  excels at making her signature hot and spicy dishes.
+description: A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.
 ---
 
 # Xiangling
@@ -69,9 +67,9 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 | Frames | 18 |
 | GU | 1A |
 | ICD | None |
-| Snapshot? | Snapshot |
-| DMG Element | Pyro |
-| DMG Type | Elemental Skill |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Elemental Skill |
 | Duration | 7s |
 | CD | 12s |
 
@@ -93,9 +91,9 @@ Xiangling sends a **Pyronado** whirling around her that moves with your characte
 | GU | 1A |
 | 3 Swings ICD | 3 hit / 2.5s |
 | Pyronado ICD | None |
-| Snapshot? | Snapshot |
-| DMG Element | Pyro |
-| DMG Type | Burst |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Burst |
 | Energy Cost | 80 |
 | Duration | 10s |
 | CD | 20s |
