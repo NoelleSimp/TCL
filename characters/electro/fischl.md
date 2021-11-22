@@ -93,7 +93,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | ICD | 4 hits / 5s |
 | Snapshot | Snapshot |
 | Duration | 10s |
-| Attack Speed | 1/s |
+| Total Hits | 10 |
 | Damage Element | Electro |
 | Damage Type | Elemental Skill |
 
@@ -250,6 +250,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 * **C6** joint attacks share ICD with **Oz's** Normal Attacks.
 * The joint attack only procs once on multi-hit attacks.
+* **Oz** normal attacks a total of 11 times during the **C6** duration.
 
 {% endtab %}
 {% endtabs %}
