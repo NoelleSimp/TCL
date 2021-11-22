@@ -36,9 +36,9 @@ Perform up to 5 rapid strikes.
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 67.75% | 9 | 451.7%/s |
 | 2-Hit | 69.25% | 34 | 241.8%/s |
-| 3-Hit | 41.5% x 2 | 59 / 78 | 169.2%/s |
+| 3-Hit | 41.5% \(x2\) | 59 / 78 | 169.2%/s |
 | 4-Hit | 81.38% | 116 | 155.9%/s |
-| 5-Hit | 52.13% x 2 | 160 / 195 | 124.8%/s |
+| 5-Hit | 52.13% \(x2\) | 160 / 195 | 124.8%/s |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
@@ -65,10 +65,10 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG | 235.2% + 267.68% |
+| Skill DMG (T6%) | 235.2% + 267.68% |
 | Particles | 5 \(-\) |
 | Frames | 82 |
-| GU | 1A x 2 |
+| GU | 1A \(x2\) |
 | ICD | None |
 | Damage Element | Hydro |
 | Damage Type | Elemental Skill |
