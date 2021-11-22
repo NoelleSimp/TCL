@@ -1,7 +1,5 @@
 ---
-description: The languid but knowledgeable Librarian of the Knights of Favonius, deemed by 
-Sumeru Academia to be their most distinguished graduate in the past two 
-centuries.
+description: The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.
 ---
 
 # Lisa
@@ -81,11 +79,13 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | :--- | :--- | :--- |
 | Skill DMG | 112% | 448% / 515.2% / 593.6% / 682.06% |
 | Frames | 21 | 116 |
-| MV/s | 320%/s | 231.7%/s / 264.9%/s / 307%/s / 352.8%/s |
-| Particles | ~ | 5 \(-\) |
-| CD | 1s | 16s |
+| MV/s | 320%/s | 231.7%/s / 264.9%/s / 307%/s / 352.8%/s ||
 | GU | 1A | 2B |
 | ICD | 3 hits / 2.5s, shared with normal attacks | None |
+| Particles | ~ | 5 \(-\) |
+| Damage Element | Electro | Electro |
+| Damage Type | Elemental Skill | Elemental Skill |
+| CD | 1s | 16s 
 
 
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
@@ -111,11 +111,13 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Discharge DMG | 51.18% |
 | Frames | 30 |
 | MV/s | 102.4%/s |
-| Duration | 15s |
-| CD | 20s |
-| Energy Cost | 80 |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |
+| Damage Element | Electro | Electro |
+| Damage Type | Elemental Burst | Elemental Burst |
+| Energy Cost | 80 |
+| Duration | 15s |
+| CD | 20s |
 
 * Surrounding opponents are only launched if made airborne while their poise is broken. Poise-broken grounded enemies are frequently staggered instead.
 * The initial summon damage of **Lightning Rose** does not apply an Electro Aura.
