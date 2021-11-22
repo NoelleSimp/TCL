@@ -8,7 +8,6 @@ description: >-
 
 ## **Resources**
 
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Tartaglia)
 * [Childe Mains Discord](https://discord.gg/Childe)
 * [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
 * [Childe Guide](https://keqingmains.com/tartaglia/)
@@ -88,8 +87,8 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | Frames | 28 |
 | GU | 2B |
 | ICD | None |
-| DMG Element | Hydro |
-| DMG Type | Skill |
+| Damage Element | Hydro |
+| Damage Type | Skill |
 
 * **Melee Stance:**
   * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.
@@ -140,9 +139,9 @@ Hitting an opponent affected by **Riptide** with a melee attack unleashes a **Ri
 | Particles | 1 per proc |
 | GU | 1A |
 | ICD | None |
-| Snapshot? | No |
-| DMG Element | Hydro |
-| DMG Type | Skill |
+| Snapshot | No |
+| Damage Element | Hydro |
+| Damage Type | Skill |
 
 {% endtab %}
 
@@ -161,8 +160,8 @@ Performs a different attack depending on the stance in which it is cast.
 | Frames | 52 |
 | GU | 2B |
 | ICD | None |
-| DMG Element | Hydro |
-| DMG Type | Burst |
+| Damage Element | Hydro |
+| Damage Type | Burst |
 | Energy Cost | 60 |
 | Energy Refund | 20 |
 | CD | 15s |
@@ -183,8 +182,8 @@ Performs a different attack depending on the stance in which it is cast.
 | Frames | 97 | -- |
 | GU | 2B | 2B |
 | ICD | None | None |
-| DMG Element | Hydro | Hydro |
-| DMG Type | Burst | Burst |
+| Damage Element | Hydro | Hydro |
+| Damage Type | Burst | Burst |
 | Energy Cost | 60 | -- |
 | CD | 15s | -- |
 | MV/s | 505.7%/s | -- |
@@ -202,9 +201,9 @@ A chart of Tartgalia's different Riptide effects
 | Particles | -- | 1 per proc | -- | -- |
 | GU | 1A | 1A | 2B | 2B |
 | ICD | 3 Hit / 2.5s | None | None | None |
-| Snapshot? | -- | Dyanmic | -- | -- |
-| DMG Element | Hydro | Hydro | Hydro | Hydro |
-| DMG Type | Normal Attack | Elemental Skill | Normal Attack | Elemental Burst
+| Snapshot | -- | Dynamic | -- | -- |
+| Damage Element | Hydro | Hydro | Hydro | Hydro |
+| Damage Type | Normal Attack | Elemental Skill | Normal Attack | Elemental Burst
 
 * **Riptide** has a 10s duration (without Ascenscion 1).
 
