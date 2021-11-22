@@ -89,7 +89,7 @@ Bennett's attack buff lingers for a bit after the visual of the circle fades awa
 **Significance:**  
 Better understanding of Bennett Burst mechanics
 
-### Inspiration Field Tick Rate (REENS ADD THIS)
+### Inspiration Field Tick Rate
 
 **By:** Monochrom9\#8058  
 **Added:** 2/12/2021  
