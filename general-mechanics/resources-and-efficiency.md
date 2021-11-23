@@ -100,8 +100,10 @@ Bushes have a 8% chance to drop loot, they will drop:
 * Eggs
 * Masutakes
 * Fireflies \(nightime only\)
+* This information can be used together with the[ infinite spawning bushes bug](../evidence/general-mechanics/bugs.md#infinite-bushes) to farm these materials.
 
-This information can be used together with the[ infinite spawning bushes bug](../evidence/general-mechanics/bugs.md#infinite-bushes) to farm these materials.
+### Bane-Duki Respawn
+Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
 
 ## Resource Limits
 
@@ -148,6 +150,7 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 * All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload. 
+
 
 
 ## **Evidence Vault:**

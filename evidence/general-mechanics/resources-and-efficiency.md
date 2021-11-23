@@ -59,6 +59,7 @@ Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a b
 **By:** K \឵឵#4000  
 **Added:** 07/07/2021  
   [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855808417447804938/858443909838929940/transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)  
+  
 **Finding:**  
 NPC artifact shops are a better deal than the sanctifying essence in terms of artifact experience.  
 
@@ -272,6 +273,24 @@ By destroying artifacts, you either can get XP or Mora, it is the same for each.
 **Significance:**
 
 Destroying weapons is not efficient and causes you to lose weapon XP. Destroying artifacts although has no "real downside," the rewards given are lackluster and are better used as fodder. There is no reason to destroy items that give no rewards. Those items are better used for the Parametric Transformer if they need to be disposed of. The only upside is to mass clear inventory space, but due to the size of the inventory and the loss of XP, it does not warrant using the feature.
+
+## Bake-Danuki Respawn
+
+**By:** Mcpie\#8672  
+**Added:** 8/8/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868107312617889803/874106706328690778/transcript-inazuma-bake-danuki-respawn.html)
+
+**Finding:**  
+Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
+
+**Evidence:**
+* 2021-07-21 18:42:25 - <https://youtu.be/RWUUFzwP2f0> - first video
+* 2021-07-23 11:38:29 - <https://youtu.be/QQDcTR_G04w> - second video (1 day 17h diff)
+* 2021-07-24 05:52:53 - <https://youtu.be/1WHudr-4wZ8> - third video  (~19h diff)
+* 2021-07-24 17:21:04 - <https://youtu.be/PghdzG1TlLc> - fourth video (~11h30min diff)
+
+**Significance:**  
+Some of them respawn artifacts so it might be a reliable way of getting more artifact fodder everyday.
 
 ## Bush Droprates
 
