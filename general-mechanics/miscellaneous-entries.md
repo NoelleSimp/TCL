@@ -6,10 +6,7 @@ description: For entries that have little practical use.
 
 * At least two of the birds (one near Azhdaha and one in Guyun) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive. 
   * You can use this to get free fowl. 
-  * Whoever is coding the animals is probably trolling.
-* Jean runs at 180 BPM.
 * Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
-* The traveler twins are not equal. I have discovered that Lumine is more red, green, and blue than Aether.  
 * The Kamuijima Cannons in Inazuma can cause friendly damage to yourself, as well as other players in Co-op.
 
 ## Cancelling
@@ -18,13 +15,8 @@ description: For entries that have little practical use.
   * This can also be performed by interacting with an NPC or a poster instead of a chair.
 * Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for charge attacks.
 
-## Environment
-
-* Bushes take one unit of pyro elemental application to light on fire.
-* If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
+## Teapot
 * Lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.
-* Electro Crystals have levels
-* You can light torches and melt Ice Flowers with 0 gauge pyro hits, such as Overload, Hu Tao's Skill cast, and Yoimiya's Skill cast.
 
 ## Tanking
 

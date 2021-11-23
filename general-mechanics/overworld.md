@@ -52,9 +52,9 @@ Consuming the campfire aura requires one of the following:
 The aura on the campfire is 1U, regardless of the Pyro aura applied.  
 For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire that behaves the exact same as one lit with 1U of pyro.
 
-## Bush Elemental Interactions
-
-Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
+## Bushes
+* Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
+* Bushes take one unit of pyro elemental application to light on fire.
 
 ## Zone Levels:
 
@@ -73,7 +73,6 @@ Structures do not count as "opponents" for the purposes of triggering abilities 
 * Character coordinates change whenever the game state is not frozen (unpaused single player).
 
 ## Other world maps  
-
 The current world state & character position is saved between different world maps.  
 
 ## Revive Mechanics  
@@ -88,6 +87,10 @@ The current world state & character position is saved between different world ma
 
 * Treasure Compass detection depends on the chest rendering. Chest rendering suffers from an ItDepends™ .
 * Chest rendering seems to be square, off-set from chest, 360m x 360m for some while 180m x 180m for others.
+
+## Miscellaneous
+* If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
+* You can light torches and melt Ice Flowers with 0 gauge pyro hits, such as Overload, Hu Tao's Skill cast, and Yoimiya's Skill cast.
 
 ## Evidence Vault
 
