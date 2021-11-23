@@ -45,7 +45,7 @@ Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 | :--- | :--- |
 | Charged Attack | 80% + 106.25% |
 
-| Combo | Frames | MV/s |
+| Combo | Frames | MV/s (Talent 6%) |
 | :--- | :--- | :--- |
 | N1C | 87 | 182.3%/s |
 
