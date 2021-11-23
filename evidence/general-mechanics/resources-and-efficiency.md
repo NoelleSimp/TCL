@@ -4,9 +4,80 @@ description: For entries related to resources or resource efficiency
 
 # Resources and Efficiency
 
-## Resource Limits
+**Main Page:**
 
-### Capped Enhancement Ores  
+{% page-ref page="../../general-mechanics/resources-and-efficiency.md" %}
+
+## Realm Currency Exchange Rate Analysis
+
+**By:** Mateng\#4507  
+**Added:** 6/6/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832668930580807750/851210889818669097/transcript-realm-currency-exchange-rate-analysis.html)
+
+**Theory**  
+Realm Currency \(RC\) is a new kind of currency that will release in 1.5 allowing Travelers to exchange it for various goods including Mora, EXP, Ores, and Transient Resin \(60 Resin that must be used quickly\). This exchange rate analysis will examine its value alongside Resin and Stardust.
+
+**Evidence**
+
+Assumptions:
+
+* The Traveller uses the Transient Resin and consumes 60 Original Resin
+* Stardust/Resin values are seen here: [Resin Stardust Comparison](../../general-mechanics/lifeskills.md#resin-to-stardust-exchange-comparison)
+
+Abbreviations:
+
+* RC = Realm Currency
+* MEO = Magic Enhancement Ore
+
+RC conversions based at 1200 RC:
+
+```python
+4 Wits / 1200 RC       (1 Wit = 120 RC)
+100000 mora / 1200 RC  (1 mora = .012 RC)
+20 MEOs / 1200 RC      (1 MEO = 60 RC)
+60 resin / 1200 RC
+```
+
+Stardust conversions based at 60 Resin:
+
+```python
+18.38 Wits / 60 Resin   (20 Resin = 6.125 Wits)
+180000 Mora / 60 Resin  (20 Resin = 60000 Mora)
+36 MEOs / 60 Resin      (20 Resin = 12 MEOs)
+```
+
+**Significance**
+
+Stardust/RC Values:
+
+```python
+1 Wit  = .0153 Stardust/RC (18.38/1200)
+1 Mora = .015 Stardust/RC (180000/1200/10000)
+1 MEO  = .03 Stardust/RC (36/1200)
+```
+
+RC/Resin Values:
+
+```python
+1 Wit  = .9995 RC/Resin (.0153 * 65.33)
+1 Mora = .9 RC/Resin (.015 * 60)
+1 MEO  = 1.8 RC/Resin (.03 * 60)
+```
+
+Based at 20 Resin:
+
+```python
+6.125 Wit  = .05 RC/Resin (.9995/20)
+60000 Mora = .045 RC/Resin (.9/20)
+12 MEOs    = .09 RC/Resin (1.8/20)
+```
+
+**Analysis**  
+The most Resin-efficient purchase order at the Realm Depot is to claim the Magic Enhancement Ores every week, then the Wits, and then the Mora \(assuming that the Traveler has already claimed the Transient Resin if they wish to\).
+
+For Travelers who wish to maximize Stardust and minimize RC: target MEOs -&gt; EXP -&gt; Mora at Paimon's Bargains in the Shop. Inverse this priority \(Mora -&gt; EXP -&gt; MEOs\) if Travelers wish to maximize RC and minimize Stardust.
+
+## Capped Enhancement Ores  
 
 **By:** Kgbeast#6738  
 **Added:** 10/09/2021  
@@ -33,7 +104,7 @@ Consequences of having capped (9999) Mystic Enhancement Ore:
 **Significance:**  
 This will never happen to you though.  
 
-### Maximum Original Resin  
+## Maximum Original Resin  
 
 **By:** CQLQRS#7853  
 **Added:** 10/18/2021  
@@ -50,7 +121,7 @@ Original Resin can go past the cap of 160, capped at ~2000.
 **Significance:**  
 Better understanding of the Resin system.  
 
-### Crafted Food Items Limit  
+## Crafted Food Items Limit  
 
 **By:** It3mUs3r#4778 and Creonalia#2818  
 **Added:** 10/24/2021  
