@@ -15,10 +15,6 @@ description: For entries that have little practical use.
   * This can also be performed by interacting with an NPC or a poster instead of a chair.
 * Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for charge attacks.
 
-## Teapot
-
-* Lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.
-
 ## Tanking
 
 * In patch 1.2, Razor and Beidou are the two of the best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources. However, Hu Tao beats them both.
