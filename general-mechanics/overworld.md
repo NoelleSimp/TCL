@@ -1,5 +1,12 @@
 # Overworld
 
+## Zone Levels:
+
+The overworld map is split into multiple zones that affect enemy level and environmental reactions:  
+* [Mondstadt](https://i.imgur.com/E0oN0B6.jpg)  
+* [Liyue](https://imgur.com/a/8KAMXuE)  
+* [Inazuma](https://imgur.com/a/Qmhh5Po)  
+
 ## Artifacts
 
 - 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and frozen water.
@@ -56,13 +63,6 @@ For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire
 * Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
 * Bushes take one unit of pyro elemental application to light on fire.
 
-## Zone Levels:
-
-The overworld map is split into multiple zones that affect enemy level and environmental reactions:  
-* [Mondstadt](https://i.imgur.com/E0oN0B6.jpg)  
-* [Liyue](https://imgur.com/a/8KAMXuE)  
-* [Inazuma](https://imgur.com/a/Qmhh5Po)  
-
 ## Structures Aren't Considered Enemies
 
 Structures do not count as "opponents" for the purposes of triggering abilities like Albedo's Elemental Skill.
@@ -88,9 +88,12 @@ The current world state & character position is saved between different world ma
 * Treasure Compass detection depends on the chest rendering. Chest rendering suffers from an ItDepends™ .
 * Chest rendering seems to be square, off-set from chest, 360m x 360m for some while 180m x 180m for others.
 
-## Miscellaneous
-* If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
+## 0 Gauge Pyro
 * You can light torches and melt Ice Flowers with 0 gauge pyro hits, such as Overload, Hu Tao's Skill cast, and Yoimiya's Skill cast.
+
+## No Raining in Mondstadt
+* If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
+
 
 ## Evidence Vault
 

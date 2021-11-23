@@ -16,6 +16,7 @@ description: For entries that have little practical use.
 * Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for charge attacks.
 
 ## Teapot
+
 * Lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.
 
 ## Tanking
