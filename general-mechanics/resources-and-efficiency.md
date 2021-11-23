@@ -80,7 +80,6 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 Certain material items can be destroyed, but they don't give anything when destroyed, the same goes for apples and sunsettias too. However, not all material items can be destroyed, as of now, there is no consistent reason as to why.
 
 ## Overworld Farming
-* You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
 * Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
 * There exists an investigation daily limit of 100. After that, you cannot "investigate" to pick up items anymore. This limit resets at daily reset.
   * It is possible to go beyond this number by not leaving the rendered zone after picking up the 100th investigation spot.

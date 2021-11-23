@@ -1,6 +1,7 @@
 # Housing
 
 ## Tree Mechanics
+* You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
 
 ### Lumberjack Tierlist
 
