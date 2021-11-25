@@ -42,7 +42,7 @@ Performs up to 5 rapid strikes.
 | 5-Hit DMG | 113.64% | 136 | 194.40%/s |
 
 **Charged Attacks**  
-Consumes a certain amount of Stamina to unleash a flurry of sword ki.
+Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 * Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
   * First: A hitscan occurs for enemies in a radius around her after the NA is over.  
   * Second: After selecting an enemy (closest target or random?), Ayaka will spawn a gadget that locks onto that enemy and follows them regardless of her normal range.  
