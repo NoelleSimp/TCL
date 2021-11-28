@@ -160,7 +160,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Attribute | A4 |
 | :--- | :--- |
 | Skill DMG | 80% |
-| GU | 2B |
+| GU | 1A |
 | ICD | None |
 | Damage Elemental | Electro |
 | Damage Type | Elemental Skill |
